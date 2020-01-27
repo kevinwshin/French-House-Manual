@@ -304,3 +304,33 @@ Party Labor is to be organized by either the Education Officer, the proposer of 
 
 #### House Purchases
 Any house purchases above $25 must be approved at a house meeting through a proposal. The Treasurer will issue a check for all approved expenditures. When returning a receipt to the Treasurer, you must write your initials, circle the date, and circle the total before putting it in the wooden box at the base of the stairs.
+
+---
+
+If a housemate loses a receipt, they will be required to pay half of the ICC fine, and will pay the full fine on a second offense. This process begins anew every semester.
+
+#### House Discretionary Funds
+Each month funds are given to the house $120 per person, of which 12.5% is meant to be used for discretionary purchases or put towards savings. Any small purchase or house purchase which causes the house to exceed our monthly discretionary fund budget requires a 2/3 vote of quorum.
+
+At the last meeting of every month the treasurer should give a detailed account of spending for the month as well as let the house know what the discretionary funds budge for the next month will be.
+
+#### Small Purchases
+If a house member would like to make a small purchase for the betterment of the house, they need two officers to approve said purchase, one of which must be the Treasurer.
+
+If the member proposing the purchase is an officer, they must find two additional officers to approve the purchase. If the member proposing the purchase is the Treasurer, they must get the approval of the Trustee.
+
+#### Personal Mess Fines
+A personal mess includes any personal items, leftover dishes or cookware left in common areas for more than 24 hours. Officers may asses a fine of 1 hour of labor which will be assigned by the labor czar. If you notice someone leaves something behind, bring it to his or her attention before alerting an officer. There must be two witnesses in order to issue a personal mess fine. Three personal mess fines will result in a labor violation.
+
+No dishes can sit in the sink. In the event a member places dishes in the sink, personal mess fine can be issued. The only exception to this rule is the use of the sink during Dinner Clean.
+
+#### Maintenance Fines
+Performing an act deemed unsafe by the Maintenance Officer, or which puts the house itself at risk can result in makeup labor or a member review. Any "unsafe act" must be mentioned at a meeting. Punishment will be administered in the following manner:
+
+First offense: warning  
+Second offense: One hour of labor  
+Third offense: Two hours of labor  
+Fourth offense: Two hours of labor and conflict mediation  
+Fifth offense or more: Member review and if still a member two hours of labor
+
+#### Officer Fines
