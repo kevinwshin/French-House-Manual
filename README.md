@@ -643,3 +643,33 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
 - Surfaces
     - Using non-toxic cleaner clean the wooden counter tops.
     - Using non-toxic cleaner clean the counters around the sinks, ledge by guff food, microwave table and the table used for eating.
+
+---
+
+- Appliances
+    - Using non-toxic cleaner wipe down stovetop, microwave, toaster, toaster oven, mixer, espresso machine, blender, food processor or any other appliance left on the counter.
+    - Erase save plate box and initials on white board and replace with new box and day.
+    - Sweep and mop the kitchen floor
+    - Take out the garbage and put in a fresh bag.
+- Daily Tasks
+    - Sunday - Stove: Thoroughly clean stainless steel with non-toxic cleaner, empty grease trap, reline food drop trays and organize pots, pans and lids
+    - Monday - Appliances: Using non-toxic cleaner thoroughly clean the microwave, toaster oven, toaster and any other appliances used throughout the week that needs attention, Wipe Down wall behind trash can
+    - Tuesday - Guff Shelves: Organize, refill and wipe down guff, personal, baking, and cook's food shelves; write on the board if something has run out and wipe down wall behind trash can
+    - Wednesday - Fridge Room: Organize shelf, mop and sweep
+    - Thursday - Bulk Shelves: Organize neatly and refill bulk containers under wooden counters, wipe off lids and shelves, organize oils, clean out potato and onion bins; write on the board if something has run out
+- Finish Kitchen Clean by 10:00 pm on your assigned day, sign-off and check off your appropriate day labor. You are not finished until all dishes, pans, silverware are put away (putting pots on the stove does not count as "away") and the Jackson is empty.
+
+#### Lunch Clean (1 Hour)
+- Sunday -- Thursday Lunch Cleans: You have until 5:00 pm to complete this task.
+- Friday -- Saturday Lunch Cleans: You have until 10:00 pm to complete this task.
+- Clean and Jackson all dishes left in the kitchen and on the dining room/picnic table and put them away.
+- Unless it has been made recently, dump out old coffee and clean French press.
+- Using non-toxic cleaner, clean the inside of the sinks and wash all sponges used so that they do not reek. Make sure there is no dirty spots on the sinks, they should be pretty and shiny silver.
+- Put away any foods/spices/condiments left on counters in a neat fashion.
+- Surfaces
+    - Using non-toxic cleaner, clean the wooden counter tops.
+    - Using non-toxic cleaner, clean the counters around sinks, ledge under guff food and microwave table.
+- Appliances
+    - Using non-toxic cleaner, wipe down stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor or any other appliance left on the counter.
+- Other
+    - Sweep the kitchen floor.
