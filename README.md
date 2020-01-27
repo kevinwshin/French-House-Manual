@@ -170,3 +170,27 @@ Only French House members may park in the lot or driveway. Guests may not park t
 2. Television use in common areas is outlawed, excepting for special events such as a house movie night. (if a member's TV is used for such an event it must be removed from commons by evening)
 3. Entering a housemate's room without permission is considered a violation of privacy and such acts may warrant a Member Review.
 4. No singing, live, or loud music after 10PM Sundays through Thursdays. Members should lower music when asked by a housemate, regardless of time of day.
+5. Members must be courteous and abide by French House and ICC policies.
+6. Members must help with house security by locking windows and doors when nobody is in the common areas, as well as turning off lights when leaving a room.
+7. Not knowing a rule does not make a housemate exempt from said rule.
+
+#### Roof Access
+Being of the roof for any reason is an act punishable by a fine of $50.00 and/or eviction (ICC Standing Rule.)
+
+#### Cup Runs
+A house officer may call a Cup Run by writing a note on the whiteboard 24 hours in advance. Two volunteers, one of which must be an officer, will go from room to room collecting house dishes. If the occupant is not home, the room may be opened with the extra key (failure by the officers to gain access to the key box will result in the member getting a free pass should their door be locked.) Additionally, if someone does not want their room accessed, they may leave their dishes outside their room with a note, and their room will be left alone.
+
+The room with the most points must wash all the Cup Run dishes - 1/2 point will be awarded for every utensil, 1 full point for all other dishes.
+
+#### Commons and Bikes
+Members should remove all personal items from common spaces every day. A personal mess fine can be given by an officer to anyone leaving personal items or dishes in the commons for over 24 hours. Items left in the kitchen for 5 hours or more are also applicable for a personal mess fine.
+
+Bikes are not allowed in the commons for any extended amount of time. If you need to leave your bike in the commons for 5 minutes or less, that is acceptable, however any additional time can result in a $5.00 fine.
+
+#### House Parties
+A proposal should be made for house parties of any kind and presented at a House Meeting. Majority vote is required for the party to be allowed. If any proposed party is for a group/organization/cause that is not directly related to French House, the proposer will be responsible for party cleanup.
+
+When a party is proposed 7 labor positions must be filled, including post-party commons and grounds cleans. If you do not do your labor by 5PM the day following a party, you will be assessed with a warning or violation.
+
+Any member which attends a house party must sign up for Party Labor.
+*See also, Labor: Party Labor.*
