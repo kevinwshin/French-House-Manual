@@ -673,3 +673,36 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
     - Using non-toxic cleaner, wipe down stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor or any other appliance left on the counter.
 - Other
     - Sweep the kitchen floor.
+
+---
+
+    - If garbage is 3/4 full: Take out the garbage and put in a fresh bag. If you are Friday or Saturday Lunch Clean taking out the trash is mandatory!
+
+#### Bathroom Clean (Upstairs/Downstairs) (1 hour)
+- Using non-toxic cleaner, scrub shower, toilet, sink, counters/surfaces and soap dishes.
+- Using non-toxic cleaner, clean mirrors and glass doors.
+- Remove stains, hair, and scum build-up on all surfaces and empty and clean strainers in sink and shower.
+- Sweep and mop the bathroom.
+- Bathroom Clean must be finished and signed-off for by midnight at the end of your assigned half of the week.
+    - This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
+
+#### Garden Gnome (1 Hour)
+Under the direction of the Gnome Lord, you will be doing tasks such as stated below: 
+- Use sustainable techniques and native plants to ensure the need of minimal care and a long lasting garden.
+- Weed beds, water plants and take necessary (non-toxic/organic) action to keep bugs off veggies and herbs.
+    - If there are no plants or they have died, it is your job to plant new things and make the garden look nice.
+- Water yeard so that we can have soft things to walk on or replace dead grass.
+- Take care of all aspects of composting if applicable.
+- Pick up any trash or bottles/cans left in the front yard and recycle or throw them away.
+- Sweep sidewalks and rake and gather leaves/sticks in walking areas.
+- You may be assigned tasks by the Gnome Lord that do not fit the descriptions above, that's perfectly fine! Your garden labor will be checked by the Gnome Lord and reported complete to the Labor Czar when it is done.
+
+#### Commons Clean (Upstairs & Downstairs) (1 Hour)
+- Gather all dishes/cups/silverware, wash and Jackson them, and put them away.
+- Using non-toxic cleaner, clean all tables (dining room and coffee tables) and wipe down shelves.
+    - This also means returning all materials left on tables and floor to their rightful shelves or owners.
+- Move all newspapers more than 1 week old to recycling bin in Fridge room.
+- Remove and put away all random items left lying around.
+- Throw away or recycle (after washing them out!) bottles/cans or trash people rudely left in the common spaces.
+- Organize sofas and chairs so that the room looks nice.
+- Take out the trash and replace the trash bag.
