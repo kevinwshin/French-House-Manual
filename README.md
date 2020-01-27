@@ -482,3 +482,34 @@ House Historian is in charge of keeping both a photographic and historical recor
 2. Take minutes during the meetings and have a firm grasp of what has been agreed on during meetings in a given semester, and, preferably in semesters past.
 3. Make meeting minutes accessible to the entire house quickly, giving an electronic or physical reference copy to members.
 4. Manage the historicity of the given semester through photographing and otherwise documenting any and everything going on in the house. Get the photos developed (with house funds) and hang them around the house, not just on the fridge.
+
+---
+
+### EXAMPLE OF A PROPOSAL
+
+#### Sample Proposal Name (e.g. Actual Garden Gnomes)
+Brought by: House Member
+Date: January 1, 2017
+
+Proposal is brought to add actual garden gnomes into the garden.
+
+#### Proposal
+We should take advantage of a cragslist deal and purchase garden gnomes to make our garden look more presentable.
+
+Effective Date: 1/1/2017
+
+Background: I was talking with Member A and Member B and they thought it would be a really good idea if we could incorporate actual gnomes into the garde. Some guy on craigslist is selling a bunch of them for cheap, so it would be great to get them.
+
+Reference to current policy:
+
+Pros:  
+    These gnomes are seriously cool and really cheap
+
+Objections:  
+    Dipping into house funds for gnomes
+
+Response to objection: It's just $12.50, that's only $2.50 per gnome, steal of the century!
+
+Source of Funding: $12.50 for 5 gnomes
+
+Responsible party: House Member
