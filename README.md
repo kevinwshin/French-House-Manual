@@ -365,3 +365,39 @@ Trustee is responsible for running the house, must have a working knowledge of b
 1. Attend all officer trainings/orientations
 2. Run the New Member Orientation at the start of each semester.
 3. Call and run a house meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems & concerns.
+
+---
+
+4. Act as a mediator in conflict resolutions between members.
+5. Coordinate elections of the French House elected positions - it is the responsibility of the Trustee to ensure all positions remain filled and fill-in positions in the event it is necessary.
+6. Monitor other French House officers' job performances. It is the responsibility of the Trustee to bring up any issues regarding officers at meetings.
+7. Update the House Manual of any changes.
+8. Ensure the House Code is frequently changed.
+9. Inform ICC staff of any house problems that may require attention.
+10. Inform ICC staff of new officers at the start of each semester.
+11. Uphold Part III, Section 9 of the ICC contract regarding prohibitions.
+
+#### Labor Czar (3 Hours)
+Labor Czar is responsible for organizing the labor of the House, including assigning labor, makeup labor, and warnings and fines for missing it.
+
+1. Attend all officer trainings/orientations.
+2. Assist in the New Member Orientation at the start of each semester.
+3. Deliver a weekly report
+4. Assign labor no later than one week after each session's first meeting. Additionally, ask for every member's labor preference to help you assign labor.
+5. Facilitate labor assignment changes as needed.
+6. Alert the Treasurer of members who owe fines.
+7. Alert the Trustee if a member has too many violations and must have a conflict mediation or member review.
+8. Have labor assignments clearly marked on a printed sheet somewhere in the house.
+9. Alert a member of the house if their labor needs additional work.
+10. Use common sense and your best judgment. Sometimes things don't happen, try and accomodate members who need leeway, the warnings and fine system are meant for discretion.
+
+#### Kitchen Manager (3 Hours)
+Kitchen Manager is responsible for the food of the house, dictating the recipe schedule for the cooks, making shopping lists, ensuring the kitchen and food is sanitary, and that meals are nutritious.
+
+1. Attend all officer trainings/orientations.
+2. Make shopping lists based on stapes needed (edible and inedible,) recipes, and house requests while staying on budget. Ensure the shopping list is easy to follow in the store.
+3. Either assign recipes for the cooks or request a recipe from each cook, keeping in mind that recipes MUST be nutritious.
+4. Ensure food is being placed in the appropriately marked areas for cooks as well as guff food.
+5. Ensure all Health Department regulations are being followed.
+
+#### Membership Coordinator (1 Hour)
