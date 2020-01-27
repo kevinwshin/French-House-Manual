@@ -4,7 +4,7 @@
 ---
 
 #### LAST UPDATE: 11-19-2018
-*The French House manual is made to be a set of guidelines - the cooperative living experience is a fluid one which changes from semester to semester. The manual is not the end all be all for house rules - inclusion in the manual doens't mean the house's stance is rigid on a particular topic, while exclusion from the manula doesn't give license to commit any other action.*
+*The French House manual is made to be a set of guidelines - the cooperative living experience is a fluid one which changes from semester to semester. The manual is not the end all be all for house rules - inclusion in the manual doens't mean the house's stance is rigid on a particular topic, while exclusion from the manual doesn't give license to commit any other action.*
 
 ---
 
@@ -36,83 +36,81 @@ Co-operatives work for the sustainable development of their communities through 
 ### Table of Contents
 
 #### BASIC HOUSE GUIDELINES
-Membership/House Process
-Member Orientation
-House Meetings
-Smoking
-Parking
-Common Interests
-Roof Access
-Cup Runs
-Commons and Bikes
-House Parties
-Roommate Contracts
+Membership/House Process  
+Member Orientation  
+House Meetings  
+Smoking  
+Parking  
+Common Interests  
+Roof Access  
+Cup Runs  
+Commons and Bikes  
+House Parties  
+Roommate Contracts  
 
 #### BOARDERS, GUESTS, AND COUCHSURFERS
-Boarders
-Guests
-Couchsurfers
+Boarders  
+Guests  
+Couchsurfers  
 
 #### KITCHEN
-Sanitation
-Chef Pots/Bowls/Cutting Boards
-Dinners
-Personal Food
-Save Plates
+Sanitation  
+Chef Pots/Bowls/Cutting Boards  
+Dinners  
+Personal Food  
+Save Plates  
 
 #### LABOR
-General Policy
-Labor & Beautification Holiday
-Makeup Labor
-Labor Warning/Fines System
-Party Labor
+General Policy  
+Labor & Beautification Holiday  
+Makeup Labor  
+Labor Warning/Fines System  
+Party Labor  
 
 #### FINES & PURCHASES
-House Purchases
-House Discretionary Funds
-Small Purchases
-Personal Mess Fines
-Maintenance Fines
-Officer Fines
+House Purchases  
+House Discretionary Funds  
+Small Purchases  
+Personal Mess Fines  
+Maintenance Fines  
+Officer Fines  
 
 #### INTERIM
-Interim Officers
-Interim Labor
-Interim House Process
+Interim Officers  
+Interim Labor  
+Interim House Process  
 
 #### OFFICER ROLES
-Trustee (3 Hours)
-Labor Czar (3 Hours)
-Kitchen Manager (3 Hours)
-Membership Coordinator (1 Hour)
-Treasurer (2 Hours)
-Maintenance Officer (2 Hours)
-Board Representative (3 Hours)
-Gnome Lord (2 Hours)
-Education (1 Hour)
-Historian (1 Hour)
+Trustee (3 Hours)  
+Labor Czar (3 Hours)  
+Kitchen Manager (3 Hours)  
+Membership Coordinator (1 Hour)  
+Treasurer (2 Hours)  
+Maintenance Officer (2 Hours)  
+Board Representative (3 Hours)  
+Gnome Lord (2 Hours)  
+Education (1 Hour)  
+Historian (1 Hour)  
 
 #### EXAMPLE OF A PROPOSAL
 
 #### FRENCH HOUSE ROOMMATE AGREEMENT
 
 #### LABOR DESCRIPTIONS
-Iron Chef (2 Hours)
-Kitchen Clean (2 Hours)
-Lunch Clean (1 Hour)
-Garden Gnome (1 Hour)
-Commons Clean (Upstairs & Downstairs) (1
-Hour)
-Bathroom Clean (Upstairs/Downstairs) (1
-Hour)
-Porch/Laundry Clean (1 Hour)
-Trash / Recycling (1 Hour)
-HEB/Costco Shop (2 Hours)
-Fridge Clean (1 Hour)
-Mail (Membership)
-Guff Cook (2 Hours)
-Cookie Monster (2 Hours)
-Weekend Kitchen Fairy (1 Hours)
+Iron Chef (2 Hours)  
+Kitchen Clean (2 Hours)  
+Lunch Clean (1 Hour)  
+Garden Gnome (1 Hour)  
+Commons Clean (Upstairs & Downstairs) (1 Hour)  
+Bathroom Clean (Upstairs/Downstairs) (1 Hour)  
+Porch/Laundry Clean (1 Hour)  
+Trash / Recycling (1 Hour)  
+HEB/Costco Shop (2 Hours)  
+Fridge Clean (1 Hour)  
+Mail (Membership)  
+Guff Cook (2 Hours)  
+Cookie Monster (2 Hours)  
+Weekend Kitchen Fairy (1 Hours)  
 
 #### REVISION HISTORY
 
@@ -125,7 +123,7 @@ Membership is available to any upper division college student or graduate studen
 
 The house process requires that prospective members attend a mandatory house tour before moving into French House. A tour via skype call is also acceptable if they are not in Austin. If they meet all other membership and ICC requirements, they can then apply to move in.
 
-House members my raise objections about a prospective member directly to the trustee or appropriate ICC staff member at any point before the contract is signed. The ICC office will discern whether these objections my be the basis for rejecting a prospective members's application to French House.
+House members my raise objections about a prospective member directly to the trustee or appropriate ICC staff member at any point before the contract is signed. The ICC office will discern whether these objections my be the basis for rejecting a prospective members's application to French House.  
 *See also, Interim: House Process*
 
 #### Member Orientation
@@ -138,11 +136,11 @@ If no new members move in over the interim periods, the orientation is optional 
 #### House Meetings
 Mandatory meetings occur every other Sunday after dinner, and all French House members are required to attend. The date of a meeting may be changed by informal or formal house vote but must be done 48 hours in advance. Showing up late to meetings, leaving early, or leaving for extended periods (greater than 10 minutes) will result in your being marked absent.
 
-Unexcused absences
-Officers: Maximum of one unexcused absence before $5 fine.
-        Three unexcused absences will result in member review.
-Members: Maximum of two unexcused absences before $5 fine.
-        Four unexcused absences will result in member review.
+Unexcused absences  
+Officers: Maximum of one unexcused absence before $5 fine.  
+        Three unexcused absences will result in member review.  
+Members: Maximum of two unexcused absences before $5 fine.  
+        Four unexcused absences will result in member review.  
 
 Meetings must maintain quorum (defined by greater than 50% of the house) in order to make house decisions. Assuming quorum is met, a vote may pass only if the vote is a true majority (5 votes for, 5 abstaining would be a failed vote.)
 
@@ -192,7 +190,7 @@ A proposal should be made for house parties of any kind and presented at a House
 
 When a party is proposed 7 labor positions must be filled, including post-party commons and grounds cleans. If you do not do your labor by 5PM the day following a party, you will be assessed with a warning or violation.
 
-Any member which attends a house party must sign up for Party Labor.
+Any member which attends a house party must sign up for Party Labor.  
 *See also, Labor: Party Labor.*
 
 ---
@@ -206,8 +204,8 @@ Roommate contracts serve as official agreements between roommates regarding the 
 #### Boarders
 Prospective boarders must be approved by a majority house vote. New boarders must pay half of their first month's boarding fees at the beginning of the month. After the first month any payment plan must be decided by the Treasurer. Boarders may pay for access to both the kitchen and house dinners or choose a plan which only allows a choice of meals or kitchen access.
 
-Boarding Costs:
-With Labor      : $105/mo   Kitchen OR Meals, no Labor  : $60
+Boarding Costs:  
+With Labor      : $105/mo   Kitchen OR Meals, no Labor  : $60  
 Without         : $120/mo   Kitchen OR Meals + Labor    : $45
 
 #### Guests
