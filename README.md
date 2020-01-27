@@ -334,3 +334,34 @@ Fourth offense: Two hours of labor and conflict mediation
 Fifth offense or more: Member review and if still a member two hours of labor
 
 #### Officer Fines
+
+---
+
+Officers which do not complete their duties as outlined in the Officer Roles section of the manual may be reprimanded with a Labor Violation, given by:  
+1. Any group of three housemates who collaboratively decide to issue a fine, to be reported to the Treasurer or Labor Czar for collection. This fine can be reviewed and vetoed by 2/3 officer vote.
+2. A majority of the house at a meeting.
+3. Any two officers.
+
+If an Officer has not adhered to their responsibilities, they may be impeached at a House Meeting.
+
+### INTERIM
+
+The trustee must plan to have the period when interim will start mapped out at the second to last house meeting of a semester. It can then be voted on, and interim officers can be elected at the final meeting. Interim will then last until contracts end.
+
+#### Interim Officers
+Officers elected for Interim should be members which are going to spend a large amount of time at the hosue during the period. There are three officer positions required to be filled, but others may be added at house discretion. The positions are as follows: Trustee/Membership (3), Labor Czar (3), Kitchen Manager/Treasurer (3)
+
+#### Interim Labor
+Labor is at the discretion of Interim Labor Czar. If you are not going to be at the house for a period during interim, it is your responsibility to let the Labor Czar know in advance so that the very fluid labor schedule during interim can remain uninterrupted. The warning and fine system set during the semester preceding interim will be used as the template for this time period.
+
+#### Interim House Process
+Interim house process is the same as the semester house process. Prospective new members should take a tour in person or over Skype
+
+### OFFICER ROLES
+
+#### Trustee (3 Hours)
+Trustee is responsible for running the house, must have a working knowledge of both ICC and French House rules, and ensure that the members of the house are properly informed as well. In addition, the Trustee must adhere to the following requirements:
+
+1. Attend all officer trainings/orientations
+2. Run the New Member Orientation at the start of each semester.
+3. Call and run a house meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems & concerns.
