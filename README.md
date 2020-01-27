@@ -706,3 +706,34 @@ Under the direction of the Gnome Lord, you will be doing tasks such as stated be
 - Throw away or recycle (after washing them out!) bottles/cans or trash people rudely left in the common spaces.
 - Organize sofas and chairs so that the room looks nice.
 - Take out the trash and replace the trash bag.
+
+---
+
+- Sweep and mop, THIS INCLUDES UPSTAIRS hallway and just sweeping the stairs.
+    - Mopping only needs to be done once a week. Coordinate a system with the Labor Czar and other Commons Cleaner as soon as you are assigned this labor at the beginning of a semester to ensure labor is split evenly.
+- Commons Clean must be finished and signed-off for by midnight at the end of your assigned half of the week.
+- This jobs spans for half of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
+
+#### Mail (Membership)
+- Bring in and sort mail into personal boxes.
+- Newspapers should be brought in, taken out of the bag and left on the dining room table.
+- Forward former members' mail
+    - Any house member who has moved out the previous semester will have their mail forwarded to them at the end of every month for the duration of the following semester. Collect this in appropriate container on side of mailboxes.
+- Mail and any newspapers should be brought in before noon every day. You must sign-off for forwarding mail before the last day of every month.
+
+#### Porch/Laundry Clean (1 hour)
+Porch
+- Clean off and wipe down picnic table: recycle newspapers and bottles/cans, throw out trash, clean and Jackson any dishes left out, and empty ashtrays.
+- Sweep porch and stairs. Only mop if it is particularly dirty/muddy. You can always spray it down with the hose.
+- Pick up cigarette butts and trash around smokers bench and recycle any bottles or cans.
+
+Laundry Room
+- Organize and wipe down laundry supply shelf.
+- Wipe down washer and dryer including door gaps, crevices and detergent areas.
+- Empty filter at bottom of washing machine and check and clean dryer filter.
+- Write on the board if liquid/dry laundry detergent or dryer sheets are low.
+- Sweep and take out the trash.
+- Wash and dry kitchen towels
+- Clean mop heads weekly in the washing machine. You MUST use the delicate cycle and put rubber bands around the strings so they do not tangle.
+
+Porch/Laundry Clean must be finished and signed-off for by midnight at the end of your assigned part of the week.
