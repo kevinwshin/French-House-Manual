@@ -401,3 +401,35 @@ Kitchen Manager is responsible for the food of the house, dictating the recipe s
 5. Ensure all Health Department regulations are being followed.
 
 #### Membership Coordinator (1 Hour)
+
+---
+
+Membership must ensure all emails from prospective new members are answered quickly, and coordinate with them to help complete their house process, whether it be through a Skype interview or in-person interview.
+
+1. Attend all officer trainings/orientations.
+2. Take meeting minutes and post them on the French House Facebook group as well as emailing them to the member list, so that all members can clearly see them.
+3. Keep track of attendance during the meetings and alert the Trustee if anyone is in danger of missing too many meetings.
+4. Coordinate with cooks to alert them if they'll have a new member cook with them.
+5. Welcome new members that are moving in. Be a resource to all new members during the move-in period. provide each member with the house manual and ensure they read it.
+6. Keep all keys in the house key box up to date (there should be 2 keys for each single, and 1 extra for each double.)
+7. Change the combination of the key box at the start of each semester: only Membership, the Trustee and Maintenance should know the code.
+8. Keep all house members informed of important contract signing and termination dates.
+9. Organize the house's mail and place it in the member mailboxes.
+10. Ensure all house members are aware of ICC membership policies.
+11. Ensure new members attend ICC orientations, meetings and the New Member Orientation.
+12. Inform house members of ICC events.
+
+#### Treasurer (2 Hours)
+Treasurer is responsible for managing the budget of the house as well as writing checks and managing the receipts.
+
+1. Be the voice of dissent on any and all purchases. People want to spend house funds, it is your job to remind them that there must be funds left over for future semesters. Be responsible.
+2. Attend all officer trainings/orientations
+3. Keep accurate and timely accounting records of French House Financing according to the ICC Treasurer's Manual: this includes balancing the checkbook, saving associated receipts, and recording and paying house bills as they arrive. Ensure that your own records are easy to follow and understand for future Treasurers and your own piece of mind.
+4. Manage semesterly and monthly cash flow and deliver an accurate report of it at house meetings.
+5. Issue checks only when the house account has sufficient funds available. A bounced check is grounds for immediate removal from the position.
+6. Promptly pay all house bills and assessments at the office by the 5th of each month.
+7. Keep the house within a reasonable budget. Work with both Maintenance and Kitchen Manager to ensure we're not buying things we do not need.
+8. Enforce the house guest policy and collect payments from said guests.
+
+#### Gnome Lord (2 Hours)
+Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes with their weekly tasks in garden maintenance.
