@@ -247,3 +247,29 @@ Dinners are served Sunday through Thursday night at 7:00 PM. A veggie option is 
 If labor does not allow for five cooks per week, the Labor Czar may cut a meal with consent of the house.
 
 While the chefs of the house are making their food from 5-7:00 PM, the house kitchen should not be used unless you have no other recourse AND the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yoursef to prepare a five-course feast and delay the person cleaning. you may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
+
+---
+
+#### Personal Food
+All personal food in the fridge, freezer, or shelf must be labeled with the owner's initials and the date the food was placed there. Alcohol does not require initials.
+
+Bagged food will be kept for up to one month after its marked date. Resaurant leftovers will only be left for 1 week. Any food that is rotten or past its expiration date will be thrown out, regardless of the date it was labeled.
+
+Food in the freezer will be moved to the guff freezer if it was labeled in a prior semester. Fridge clean will never throw out new items, but it is the responsibility of the owner of the personal food to accurately label or relabel their items.
+
+#### Save Plates
+Anyone requesting a save plate must write their initials in the appropriate box on the whiteboard before dinner is served on the requested day. Save plates will then be protected for 24 hours after the meal and become guff after this period. Failure to eat or otherwise clean your save plate after 48 hours will result in a Personal Mess Fine, though the save plate may be moved to the personal fridge to work around this problem.
+
+Group save plates are not an option and will result in a warning for the cooks the first time, and a labor offense the second time.
+
+### LABOR
+
+####General Policy
+Housemates must fulfill 4-5 hours per week of labor requirements to be set by the Labor Czar. Housemates are personally responsible for their labor and in the event that they cannot complete it, should make arrangements to switch labor with another housemate. In the event of a switch, both parties must alert the Labor Czar of a change to their respective labor.
+
+If a house member will have an absence of two weeks or more, they need to alert the Labor Czar at least one week in advance in order to account for labor changes.
+
+If labor spans the entire week, the Labor Czar may ask for additional tidying when labor requires it, to be completed within 24 hours of asking.
+
+#### Labor & Beautification Holiday
+Labor Holiday is a mandatory house event wherein the house should be deep cleaned, while Beautification Holiday is a mandatory even wherein new projects, art and remodeling of the house should be the focus. The date of each holiday will be decided by a house vote - Labor Holiday must take place within the first 6 weeks of each semester, and Beautification Holiday should occur at a voted-on time following it.
