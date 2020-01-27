@@ -222,3 +222,30 @@ The house may review liability for specific situations on a case-by-case basis, 
 #### Couch Surfers
 French House accepts Couch surfers under the following strict guidelines:
 1. A couch surfer should request a couch with a two-week notice so that they may be approved at a house meeting.
+
+---
+
+2. Maximum of two weeks stay at the house.
+3. Couch surfers will not receive the door code.
+4. Any member may evict a surfer at any time, at their own discretion
+5. Any dissent from any member of the house during a vote process will result in the couch surfer being rejected.
+
+### Kitchen
+The kitchen is open 24 hours and food is available to all members unless it is personal food or food which is to be used in the preparation of a meal. If you cook with something or use a dish you MUST clean it. Dishes are not allowed to be stored in the sink. Anyone who puts dishes in the sink, except for dinner clean, is subject to a personal mess fine.
+
+#### Sanitation
+Be courteous to toher members and follow all state and city health regulations. Practice cleanliness and do not sit or put your feet on the island or counters.
+
+If anything you use comes in contact with raw meat, you must clean or otherwise replace it with another cutting board/knife/plate, etc. if you plan to use the dish for ANYTHING else.
+
+The Jackson is a sanitizer, not a dishwasher. All items must be cleaned on the tops and bottoms for food remnants, with soap, before being placed in the Jackson.
+
+#### Chef Pots/Bowls/Cutting Boards
+Chef pots, bowls, and cutting boards are not to be removed from the kitchen by any member of the house. Pots, cutting boards and bowls (the metal mixing bowls or large plastic bowls) should always remain in the kitchen. Tupperware can be used as an alternative.
+
+#### Dinners
+Dinners are served Sunday through Thursday night at 7:00 PM. A veggie option is not guaranteed, but a Kitchen Manager may request cooks accomodate. You may request a save plate if you are not home for dinner, but you must clean it regardless of if you eat the food.
+
+If labor does not allow for five cooks per week, the Labor Czar may cut a meal with consent of the house.
+
+While the chefs of the house are making their food from 5-7:00 PM, the house kitchen should not be used unless you have no other recourse AND the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yoursef to prepare a five-course feast and delay the person cleaning. you may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
