@@ -30,3 +30,88 @@ Co-operatives serve their members most effectively and strengthen the co-operati
 
 #### CONCERN FOR COMMUNITY  
 Co-operatives work for the sustainable development of their communities through policies approved by their members.
+
+---
+
+#### Table of Contents
+
+**BASIC HOUSE GUIDELINES**  
+Membership/House Process  
+Member Orientation  
+House Meetings  
+Smoking  
+Parking  
+Common Interests  
+Roof Access  
+Cup Runs  
+Commons and Bikes  
+House Parties  
+Roommate Contracts  
+
+**BOARDERS, GUESTS, AND COUCHSURFERS**  
+Boarders  
+Guests  
+Couchsurfers  
+
+**KITCHEN**  
+Sanitation  
+Chef Pots/Bowls/Cutting Boards  
+Dinners  
+Personal Food  
+Save Plates  
+
+**LABOR**  
+General Policy  
+Labor & Beautification Holiday  
+Makeup Labor  
+Labor Warning/Fines System  
+Party Labor  
+
+**FINES & PURCHASES**  
+House Purchases  
+House Discretionary Funds  
+Small Purchases  
+Personal Mess Fines  
+Maintenance Fines  
+Officer Fines  
+
+**INTERIM**  
+Interim Officers  
+Interim Labor  
+Interim House Process  
+
+**OFFICER ROLES**  
+Trustee (3 Hours)  
+Labor Czar (3 Hours)  
+Kitchen Manager (3 Hours)  
+Membership Coordinator (1 Hour)  
+Treasurer (2 Hours)  
+Maintenance Officer (2 Hours)  
+Board Representative (3 Hours)  
+Gnome Lord (2 Hours)  
+Education (1 Hour)  
+Historian (1 Hour)  
+
+**EXAMPLE OF A PROPOSAL**  
+
+**FRENCH HOUSE ROOMMATE AGREEMENT**  
+
+**LABOR DESCRIPTIONS**  
+Iron Chef (2 Hours)  
+Kitchen Clean (2 Hours)  
+Lunch Clean (1 Hour)  
+Garden Gnome (1 Hour)  
+Commons Clean (Upstairs & Downstairs) (1  
+Hour)  
+Bathroom Clean (Upstairs/Downstairs) (1  
+Hour)  
+Porch/Laundry Clean (1 Hour)  
+Trash / Recycling (1 Hour)  
+HEB/Costco Shop (2 Hours)  
+Fridge Clean (1 Hour)  
+Mail (Membership)  
+Guff Cook (2 Hours)  
+Cookie Monster (2 Hours)  
+Weekend Kitchen Fairy (1 Hours)  
+
+**REVISION HISTORY**  
