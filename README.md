@@ -273,3 +273,34 @@ If labor spans the entire week, the Labor Czar may ask for additional tidying wh
 
 #### Labor & Beautification Holiday
 Labor Holiday is a mandatory house event wherein the house should be deep cleaned, while Beautification Holiday is a mandatory even wherein new projects, art and remodeling of the house should be the focus. The date of each holiday will be decided by a house vote - Labor Holiday must take place within the first 6 weeks of each semester, and Beautification Holiday should occur at a voted-on time following it.
+
+---
+
+Labor Holiday assignments will be decided by the Labor Czar and announced that morning. Each member will be given a minimum of 4 hours of labor, and their job will be finished when they have worked 4 hours, or their assigned labor is completed - whichever comes last.
+
+Beautification Holiday assignments will be decided on by the house. Beautification holiday is a mandatory event during Fall and Spring semesters wherein each member must complete 2 hours of beautification labor over the course of one weekend. Beautification holiday is voluntary event during Summer session.
+
+If a member is unable to attend Labor or Beautification Holiday, they will be given makeup labor to be made up within a month of the holiday, if makeup labor is not completed there will be a member review. Not alerting the Labor Czar of an absence from the Holiday will result in an automatic member review.
+
+#### Makeup Labor
+All missed labor will result in makeup labor to be assigned by the Labor Czar. This labor must be made up in a time determined (within reason) by the Labor Czar. The Labor Czar must keep a hard copy of violations and warnings in addition to the white board.
+
+#### Labor Warning/Fines System
+Current Warning/Fine System:  
+1st Offense: Warning and makeup labor.  
+2nd Offense: Labor violation to be displayed on whiteboard, makeup labor  
+3rd Offense: Labor violation to be displayed on whiteboard, makeup labor  
+4th Offense: Labor violation to be displayed on whiteboard, house-wide conflict mediation
+
+At the conflict mediation the house will decide the terms for the member-in-question's good standing with the house
+
+#### Party Labor
+Any member attending a party for any amount of time will be required to assist in party labor.
+
+Party Labor is to be organized by either the Education Officer, the proposer of a pary, or the Labor Czar. If Party Labor is not organized, the proposer of the party will be responsible for cleanup.  
+*See also, Basic House Guidelines: House Parties*
+
+### FINES & PURCHASES
+
+#### House Purchases
+Any house purchases above $25 must be approved at a house meeting through a proposal. The Treasurer will issue a check for all approved expenditures. When returning a receipt to the Treasurer, you must write your initials, circle the date, and circle the total before putting it in the wooden box at the base of the stairs.
