@@ -145,3 +145,28 @@ Members: Maximum of two unexcused absences before $5 fine.
         Four unexcused absences will result in member review.
 
 Meetings must maintain quorum (defined by greater than 50% of the house) in order to make house decisions. Assuming quorum is met, a vote may pass only if the vote is a true majority (5 votes for, 5 abstaining would be a failed vote.)
+
+---
+
+If you cannot attend a meeting you must notify the Trustee 24 hours in advance. If you miss a meeting, you are expected to read the minutes and will be held accountable for any decisions made at meetings, regardless of attendance.
+
+The General Membership Meeting (GMM), counts as a mandatory house meeting and being absent without notifying the Trustee with a reasonable excuse will count as an absence.
+
+Proposals, which are changes to the house manual, or an allocation of house funds, must be submitted to the Trustee 48 hours or more before a meeting. The trustee will post and/or email a meeting agenda every Friday preceding a meeting by midnight. House members can bring forward one spontaneous proposal which was not submitted to the Trustee each semester, which must be voted in by a 2/3 house vote.
+
+A spontaneous proposal, regardless of whether it passes or fails, may only be introduced once per member, per semester.
+
+#### Abstention Voting
+"Abstention" votes are removed from the voting pool and per Robert's Rules of Order. Abstentions are counted and noted, but not as a "yes" or "no" vote. An abstention does not affect the voting result. A member has a right to abstain and cannot be compelled to vote. A member has an obligation to abstain if he or she has a direct personal interest in the matter that amounts to a legal conflict of interest. The total of "yes" and "no" votes must meet quorum for a vote to pass, otherwise it fails by abstention. If quorum os met and there are more "yes" votes than "no" votes, the motion passes.
+
+#### Smoking
+Common areas and personal areas are smoke free. Smoking is allowed outside only. if the member living in room #1 has a problem with smoke, they may bring it up at a meeting and it will be prohibited until the member moves out, changes rooms, or decides to re-allow it.
+
+#### Parking
+Only French House members may park in the lot or driveway. Guests may not park there. If you need to momentarily pull into the driveway, you must be available to move your car. Double parking is not acceptable.
+
+#### Common Interests
+1. No animals allowed.
+2. Television use in common areas is outlawed, excepting for special events such as a house movie night. (if a member's TV is used for such an event it must be removed from commons by evening)
+3. Entering a housemate's room without permission is considered a violation of privacy and such acts may warrant a Member Review.
+4. No singing, live, or loud music after 10PM Sundays through Thursdays. Members should lower music when asked by a housemate, regardless of time of day.
