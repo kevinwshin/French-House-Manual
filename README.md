@@ -194,3 +194,31 @@ When a party is proposed 7 labor positions must be filled, including post-party 
 
 Any member which attends a house party must sign up for Party Labor.
 *See also, Labor: Party Labor.*
+
+---
+
+#### Roommate Contracts
+Roommate contracts serve as official agreements between roommates regarding the rules and expectations for a room. The content of a contract is at discretion of the roommates themselves, with the Trustee facilitating the creation of each contract at the start of a semester. For the contract to be enforced and adhered to, one roommate may go to the Trustee at any time they feel the contract has been breached, and the Trustee can then levy violations on the offending roommate. The third violation of the contract results in a conflict mediation, while the fourth results in a member review. See: later in the manual for sample roommate contract.
+
+### BOARDERS, GUESTS, AND COUCHSURFERS
+*Nobody may stay at French House more than 2 weeks without a contract from ICC.*
+
+#### Boarders
+Prospective boarders must be approved by a majority house vote. New boarders must pay half of their first month's boarding fees at the beginning of the month. After the first month any payment plan must be decided by the Treasurer. Boarders may pay for access to both the kitchen and house dinners or choose a plan which only allows a choice of meals or kitchen access.
+
+Boarding Costs:
+With Labor      : $105/mo   Kitchen OR Meals, no Labor  : $60
+Without         : $120/mo   Kitchen OR Meals + Labor    : $45
+
+#### Guests
+An ICC-contracted member (boarders not included) must be responsible, and will be held liable, for any guest at the house. If any personal propery damage occurs, the guest's sponsor will be held liable and it is their responsibility to replace the property, pay for repairs, or allocate resources to make the situation right in the eyes of the property owner.
+
+Frequent visitors may be voted in as House Friends, which effectively makes the entire house liable for their actions, rather than an individual member. House Friends can know the house code and must be voted in by a house majority at a meeting. House friends will be reviewed on a semesterly basis.
+
+Guests may eat two dinners within a two-week span at the house for free but must pay per meal for additional meals. Guests have kitchen access, but not guff food access.
+
+The house may review liability for specific situations on a case-by-case basis, as this policy may not appropriately apply in certain situations.
+
+#### Couch Surfers
+French House accepts Couch surfers under the following strict guidelines:
+1. A couch surfer should request a couch with a two-week notice so that they may be approved at a house meeting.
