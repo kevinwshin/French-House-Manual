@@ -610,3 +610,36 @@ ________________________________________________________________________________
 **Signatures**  
 Roommate A:___________________________________ Roommate B:___________________________________
 Sponsor(Trustee):_____________________________
+
+---
+
+### LABOR DESCRIPTIONS
+
+#### Iron Chef (2 hours)
+- Cook healthy, well balanced, economical recipes into meals between 5 pm - 7 pm on your assigned day to cook.
+    - Aim to make 24 servings of your meal.
+    - Meals must be finished by 7:30 or you will receive a labor warning.
+- Alert the rest of the house that dinner is ready by ringing the bell with gusto.
+- Be conscientious when cooking and do not leave large quantities of dishes or disatrous messes for Kitchen Clean (KC).
+    - Put all used dishes into the large sink before ringing the dinner bell.
+- Prepare individual save plates for everyone who signs their initials on the board and put plates in cook's fridge with their initials AND date of the meal BEFORE you ring the dinner bell.
+
+#### Guff Cook (2 hours)
+- Cook a main course dish for guff consumption that is large enough for every member of the house to have a decent-sized portion. (No desserts)
+    - Guff Cook will use guff ingredients for meals with any necessary guidance from KM. Small items may be purchased for guff meal at the discretion of KM.
+    - Guff dish should be easy to reheat and able to keep for the week.
+- Guff dish should be cooked between noon Friday and midnight Saturday every week.
+- Guff cook shall clean all dishes used during the preparation of the guff meal.
+
+#### Kitchen Clean (2 hours)
+- Label (with date) and put away all leftovers and food items immediately after dinner in the Cook's Fridge.
+    - If neither Kitchen Cleaners (KC) are able to make dinner, they must arrange ahead of time for someone else to put up food directly after dinner.
+- If food is left out after 8:30 pm, both KCs will receive a $5 fine.
+    - Please move leftovers into size appropriate containers and DO NOT leave leftovers in bowls/pans/pots/etc. that can be used for preparing and cooking dinner. NEVER leave a serving utensil in the fridge.
+    - Put away any spices or condiments left on counters/table.
+- Clean and sanitize all dishes left in the kitchen and at the dining room/picnic table/smoker's bench (places where people eat) and put them away.
+- Unless it has been made recently, dump out old coffee and clean French press.
+Using non-toxic cleaner, clean the inside of the sinks and then clean all sponges so that they do not reek.
+- Surfaces
+    - Using non-toxic cleaner clean the wooden counter tops.
+    - Using non-toxic cleaner clean the counters around the sinks, ledge by guff food, microwave table and the table used for eating.
