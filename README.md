@@ -463,3 +463,22 @@ Board representative is meant to be an active presence at meetings, informing me
 4. With the help of the Trustee and the other officers of the house, provide leadership and direction in all French House activities.
 5. Remain aware of all operations of the house at all times.
 6. Assume the position of Trustee in the absence of the elected officer.
+
+---
+
+#### Education (1 Hour)
+Education is responsible for getting things done. If the semester is regarded as lame or boring, it is solely on the shoulders of Education.
+
+1. Attend all officer trainings/orientations.
+2. Plan out and carry out at least one major educational event per semester.
+3. Organize and oversee all parties and events held by the house. Work with the Labor Czar or Party Proposer in order to ensure that Party Labor is adequately and promptly completed.
+4. Survey the house at the start of each semester and find out what types of events they will be interested in during the session - work to get these things done and scheduled quickly!
+5. Education has a budget of $50 per month for events. Anything in excess must be voted on at a house meeting.
+
+#### Historian (1 Hour)
+House Historian is in charge of keeping both a photographic and historical record of house events and the house at large.
+
+1. Attend all officer trainings/orientations
+2. Take minutes during the meetings and have a firm grasp of what has been agreed on during meetings in a given semester, and, preferably in semesters past.
+3. Make meeting minutes accessible to the entire house quickly, giving an electronic or physical reference copy to members.
+4. Manage the historicity of the given semester through photographing and otherwise documenting any and everything going on in the house. Get the photos developed (with house funds) and hang them around the house, not just on the fridge.
