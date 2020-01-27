@@ -433,3 +433,33 @@ Treasurer is responsible for managing the budget of the house as well as writing
 
 #### Gnome Lord (2 Hours)
 Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes with their weekly tasks in garden maintenance.
+
+---
+
+1. Attend all officer trainings/orientations
+2. Organize and oversee the garden labor for Garden Gnomes, working in conjunction with the labor czar.
+3. Act as a Garden Gnome yourself - the position is not merely one of management but also of active contribution to the well-being of the garden.
+4. Gnome Lord is not given a budget buy may request (within reason) funds from the house in order to help create a more sustainable garden.
+        a. Gnome Lord has a budge of $200/semester. (Approved Spring 2016)
+
+#### Maintenance Officer (2 Hours)
+Maintenance is responsible for making sure the house is running smoothly. This includes fixing equipment and items used by the commons and in the rooms of a house member. If a task is too large for Maintenance, they should refer it to the office.
+
+1. Attend all officer trainings/orientations.
+2. Manage the maintenance request whiteboard and ensure that member problems are heard.
+3. When necessary, be available to let contractors into the house or to explain the problems we are having. If you are /unavailable, be sure that the exact problem a contractor is there to address is known to members of the house who can direct them accordingly. Do not pawn off your labor.
+4. Update the door code when requested by the house.
+5. Keep an inventory of house tools that are accessible to all housemates and keep them organized.
+6. If trash, matresses, box springs, etc. become a problem anywhere from the curb to the back alley, the Maintenance Officer should remove them as soon as possible.
+7. Make house members aware of fire and other safety hazards and maintain the safety of the house.
+8. Fine members who endanger themselves or the house according to the house policies.
+
+#### Board Representative (3 Hours)
+Board representative is meant to be an active presence at meetings, informing members of the house of upcoming ICC events and the happenings at board meetings.
+
+1. Attend all Board meetings, assigned committee meetings, officer training/orientations, and report ICC activities and decisions at all house meetings. You represent the house and the ICC in corporate decision-making.
+2. Be well versed in all local, state and federal laws and ensure they are being upheld in French House. Work to avoid civil litigation.
+3. Have a working knowledge of ICC and French House rules and act as a resource for other officers and your housemates along with Trustee.
+4. With the help of the Trustee and the other officers of the house, provide leadership and direction in all French House activities.
+5. Remain aware of all operations of the house at all times.
+6. Assume the position of Trustee in the absence of the elected officer.
