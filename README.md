@@ -90,10 +90,6 @@ Gnome Lord (2 Hours)
 Education (1 Hour)  
 Historian (1 Hour)  
 
-### EXAMPLE OF A PROPOSAL
-
-### FRENCH HOUSE ROOMMATE AGREEMENT
-
 ### LABOR DESCRIPTIONS
 Iron Chef (2 Hours)  
 Kitchen Clean (2 Hours)  
@@ -109,8 +105,6 @@ Mail (Membership)
 Guff Cook (2 Hours)  
 Cookie Monster (2 Hours)  
 Weekend Kitchen Fairy (1 Hours)  
-
-### REVISION HISTORY
 
 ---
 
