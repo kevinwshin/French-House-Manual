@@ -737,3 +737,35 @@ Laundry Room
 - Clean mop heads weekly in the washing machine. You MUST use the delicate cycle and put rubber bands around the strings so they do not tangle.
 
 Porch/Laundry Clean must be finished and signed-off for by midnight at the end of your assigned part of the week.
+
+---
+
+This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
+
+#### Trash / Recycling (1 Hour)
+- Arrange containers so that they are easily available to all housemates.
+- Trash comes every Friday morning. Bring bins to back door after trash has been collected.
+- Empty inside recycling bins, large item recycling bin and newspaper stack into rolling bins every Wednesday or more frequently if necessary.
+- Hose out and clean inside recycling bins so that they do not stink and attract roaches.
+- Make sure rolling bins are available to be picked up on city-assigned recycling day.
+    - (Call 311 same day if they miss our bins)
+    - If you miss pick-up, take care of recycling yourself. Ecology Austin is open from 9-5 every day except major holidays and is located at 9thand I-35.
+- Bring rolling bins in on the same day that they are emptied by the city.
+- All recyclables must be rinsed out before thrown into the bins. It is your job to enforce this and fuss at housemates at meetings for not doing so. Recycling plants do not clean what they receive and therefore throw anything away that is dirty. Clean recycling also keeps roaches and stinking bins at bay. Remove bottle caps from plastic bottles as they are not recycled.
+- Keep back alley clean. The city can fine us for having a mess back there.
+- Recycling must be finished and signed-off for every Wednesday by midnight.
+
+This jobs spans for the entire week. This means that you should look after recycling every day. If the Labor Czar finds bins to be too full, you will be asked to take them out. This must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
+
+#### Cookie Monster (2 Hours)
+- Create a delicious baked item for everyone in the house to delight and drool over.
+    - Aim to use guff ingredients, but the occasional, cheap item can be added to a shop at the discretion of KM.
+    - Cookie Monster does not mean only baking cookies. Strive for variety and get creative.
+- Cookie Monster shall clean all dishes used during the preparation of the delicious treat.
+- Baked treat should be finished within the amount of days given for the labor.
+
+#### HEB/Costco Shop (2 Hours)
+- Get shopping list from Kitchen Manager, a check from Treasurer and supermarket membership card, if necessary.
+- Take and use reusable grocery bags from Fridge Room.
+- Follow list and try to buy cheapest items.
+- On the receipt, circle the date, total cost and shopper's initials at the top of the receipt. Also let KM know how much the shop cost.
