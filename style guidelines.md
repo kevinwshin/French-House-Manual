@@ -2,7 +2,7 @@ This guide is meant to maintain some consistentcy in the house manual as it is m
 
 - Gender-neutral pronouns should be used unless a gendered pronoun would significantly clarify an idea.  
 - The house manual should be written in the third-person wherever possible.  
-- Major section titles should use H2 sized-headers, and minor sections titles should use H3 sized-headers.  
+- Major section titles should use H2-sized Markdown headers, and minor sections titles should use H3-sized Markdown headers.  
 - The house manual should use the Oxford comma in all cases.  
 - Numbers should be written out from zero to nine with numerals for larger values, as in *The Associated Press Stylebook*.  
 - Monetary values should exclude the cents when the amount of cents is zero  
