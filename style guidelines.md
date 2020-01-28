@@ -11,6 +11,7 @@ This guide is meant to maintain some consistentcy in the house manual as it is m
     - "French House"
     - the title of any officer when used to refer to a person (e.g., the Treasurer or the Trustee)
     - the name of any labor when used to refer to a person (e.g., the Fridge Clean)
+    - "Member Orientation"
     - "House Friends"
     - "Labor Holiday" and "Beautification Holiday"
     - "Cooks' Fridge", "Guff Fridge", "Personal Fridge", "Alcohol Fridge", and "Freezer"
