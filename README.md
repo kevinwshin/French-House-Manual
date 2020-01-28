@@ -834,3 +834,25 @@ General
 
 - Finish Kitchen Fairy between 7pm and midnight on your assigned day and sign-off.
     - You are not finished until all dishes, pans, silverware are put away (putting pots on the stove doesn't count as "away") and the Jackson
+
+---
+
+### Sample Labor Chart
+
+Labor           | Hours | Mon | Tues | Wed | Thurs | Fri | Sat | Sun | What you gotta do:
+:--------------:|:-----:|:---:|:----:|:---:|:-----:|:---:|:---:|:---:|:-----------------:
+Commons Clean   | 1     |     |      |     |       |     |     |     |**Coordinate with eachother to switch mopping weeks
+Lunch Clean     | 1     |     |      |     |       |     |     |     | **Must be done by 5:00 pm on nights w/ dinners and by 10:00 pm on nights w/out dinners
+Dinner Cook     | 2     |     |      |     |       |     |     |     | **Dinner is served at 7:00 pm
+Dinner Cook     | 2     |     |      |     |       |     |     |     |
+Dinner Clean    | 2     |     |      |     |       |     |     |     | **Must be done by 10:00 pm
+Dinner Clean    | 2     |     |      |     |       |     |     |     |
+Bathroom Clean  | 1     |     |      |     |       |     |     |     |
+HEB Shop        | 2     |     |      |     |       |     |     |     |
+Costco Shop     | 2     |     |      |     |       |     |     |     |
+Trash & Recycle | 1     |     |      |     |       |     |     |     | *MUST SEND EVIDENCE by Thurs night
+Garden Gnomes   | 1     |     |      |     |       |     |     |     | Talk to Gnome Lord
+Garden Gnomes   | 1     |     |      |     |       |     |     |     |
+Fridge Clean    | 1     |     |      |     |       |     |     |     |
+Fridge Clean    | 1     |     |      |     |       |     |     |     |
+Porch & Laundry | 1     |     |      |     |       |     |     |     |
