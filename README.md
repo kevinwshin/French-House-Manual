@@ -1,8 +1,6 @@
 # French House Manual
 ## Fall 2018
 
----
-
 #### LAST UPDATE: 11-19-2018
 *The French House manual is made to be a set of guidelines - the cooperative living experience is a fluid one which changes from semester to semester. The manual is not the end all be all for house rules - inclusion in the manual doens't mean the house's stance is rigid on a particular topic, while exclusion from the manual doesn't give license to commit any other action.*
 
@@ -144,8 +142,6 @@ Members: Maximum of two unexcused absences before $5 fine.
 
 Meetings must maintain quorum (defined by greater than 50% of the house) in order to make house decisions. Assuming quorum is met, a vote may pass only if the vote is a true majority (5 votes for, 5 abstaining would be a failed vote.)
 
----
-
 If you cannot attend a meeting you must notify the Trustee 24 hours in advance. If you miss a meeting, you are expected to read the minutes and will be held accountable for any decisions made at meetings, regardless of attendance.
 
 The General Membership Meeting (GMM), counts as a mandatory house meeting and being absent without notifying the Trustee with a reasonable excuse will count as an absence.
@@ -193,8 +189,6 @@ When a party is proposed 7 labor positions must be filled, including post-party 
 Any member which attends a house party must sign up for Party Labor.  
 *See also, Labor: Party Labor.*
 
----
-
 #### Roommate Contracts
 Roommate contracts serve as official agreements between roommates regarding the rules and expectations for a room. The content of a contract is at discretion of the roommates themselves, with the Trustee facilitating the creation of each contract at the start of a semester. For the contract to be enforced and adhered to, one roommate may go to the Trustee at any time they feel the contract has been breached, and the Trustee can then levy violations on the offending roommate. The third violation of the contract results in a conflict mediation, while the fourth results in a member review. See: later in the manual for sample roommate contract.
 
@@ -220,9 +214,6 @@ The house may review liability for specific situations on a case-by-case basis, 
 #### Couch Surfers
 French House accepts Couch surfers under the following strict guidelines:
 1. A couch surfer should request a couch with a two-week notice so that they may be approved at a house meeting.
-
----
-
 2. Maximum of two weeks stay at the house.
 3. Couch surfers will not receive the door code.
 4. Any member may evict a surfer at any time, at their own discretion
@@ -248,8 +239,6 @@ If labor does not allow for five cooks per week, the Labor Czar may cut a meal w
 
 While the chefs of the house are making their food from 5-7:00 PM, the house kitchen should not be used unless you have no other recourse AND the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yoursef to prepare a five-course feast and delay the person cleaning. you may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
 
----
-
 #### Personal Food
 All personal food in the fridge, freezer, or shelf must be labeled with the owner's initials and the date the food was placed there. Alcohol does not require initials.
 
@@ -273,8 +262,6 @@ If labor spans the entire week, the Labor Czar may ask for additional tidying wh
 
 #### Labor & Beautification Holiday
 Labor Holiday is a mandatory house event wherein the house should be deep cleaned, while Beautification Holiday is a mandatory even wherein new projects, art and remodeling of the house should be the focus. The date of each holiday will be decided by a house vote - Labor Holiday must take place within the first 6 weeks of each semester, and Beautification Holiday should occur at a voted-on time following it.
-
----
 
 Labor Holiday assignments will be decided by the Labor Czar and announced that morning. Each member will be given a minimum of 4 hours of labor, and their job will be finished when they have worked 4 hours, or their assigned labor is completed - whichever comes last.
 
@@ -305,8 +292,6 @@ Party Labor is to be organized by either the Education Officer, the proposer of 
 #### House Purchases
 Any house purchases above $25 must be approved at a house meeting through a proposal. The Treasurer will issue a check for all approved expenditures. When returning a receipt to the Treasurer, you must write your initials, circle the date, and circle the total before putting it in the wooden box at the base of the stairs.
 
----
-
 If a housemate loses a receipt, they will be required to pay half of the ICC fine, and will pay the full fine on a second offense. This process begins anew every semester.
 
 #### House Discretionary Funds
@@ -334,8 +319,6 @@ Fourth offense: Two hours of labor and conflict mediation
 Fifth offense or more: Member review and if still a member two hours of labor
 
 #### Officer Fines
-
----
 
 Officers which do not complete their duties as outlined in the Officer Roles section of the manual may be reprimanded with a Labor Violation, given by:  
 1. Any group of three housemates who collaboratively decide to issue a fine, to be reported to the Treasurer or Labor Czar for collection. This fine can be reviewed and vetoed by 2/3 officer vote.
@@ -365,9 +348,6 @@ Trustee is responsible for running the house, must have a working knowledge of b
 1. Attend all officer trainings/orientations
 2. Run the New Member Orientation at the start of each semester.
 3. Call and run a house meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems & concerns.
-
----
-
 4. Act as a mediator in conflict resolutions between members.
 5. Coordinate elections of the French House elected positions - it is the responsibility of the Trustee to ensure all positions remain filled and fill-in positions in the event it is necessary.
 6. Monitor other French House officers' job performances. It is the responsibility of the Trustee to bring up any issues regarding officers at meetings.
@@ -401,9 +381,6 @@ Kitchen Manager is responsible for the food of the house, dictating the recipe s
 5. Ensure all Health Department regulations are being followed.
 
 #### Membership Coordinator (1 Hour)
-
----
-
 Membership must ensure all emails from prospective new members are answered quickly, and coordinate with them to help complete their house process, whether it be through a Skype interview or in-person interview.
 
 1. Attend all officer trainings/orientations.
@@ -434,8 +411,6 @@ Treasurer is responsible for managing the budget of the house as well as writing
 #### Gnome Lord (2 Hours)
 Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes with their weekly tasks in garden maintenance.
 
----
-
 1. Attend all officer trainings/orientations
 2. Organize and oversee the garden labor for Garden Gnomes, working in conjunction with the labor czar.
 3. Act as a Garden Gnome yourself - the position is not merely one of management but also of active contribution to the well-being of the garden.
@@ -464,8 +439,6 @@ Board representative is meant to be an active presence at meetings, informing me
 5. Remain aware of all operations of the house at all times.
 6. Assume the position of Trustee in the absence of the elected officer.
 
----
-
 #### Education (1 Hour)
 Education is responsible for getting things done. If the semester is regarded as lame or boring, it is solely on the shoulders of Education.
 
@@ -482,8 +455,6 @@ House Historian is in charge of keeping both a photographic and historical recor
 2. Take minutes during the meetings and have a firm grasp of what has been agreed on during meetings in a given semester, and, preferably in semesters past.
 3. Make meeting minutes accessible to the entire house quickly, giving an electronic or physical reference copy to members.
 4. Manage the historicity of the given semester through photographing and otherwise documenting any and everything going on in the house. Get the photos developed (with house funds) and hang them around the house, not just on the fridge.
-
----
 
 ### LABOR DESCRIPTIONS
 
@@ -515,9 +486,6 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
 - Surfaces
     - Using non-toxic cleaner clean the wooden counter tops.
     - Using non-toxic cleaner clean the counters around the sinks, ledge by guff food, microwave table and the table used for eating.
-
----
-
 - Appliances
     - Using non-toxic cleaner wipe down stovetop, microwave, toaster, toaster oven, mixer, espresso machine, blender, food processor or any other appliance left on the counter.
     - Erase save plate box and initials on white board and replace with new box and day.
@@ -545,9 +513,6 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
     - Using non-toxic cleaner, wipe down stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor or any other appliance left on the counter.
 - Other
     - Sweep the kitchen floor.
-
----
-
     - If garbage is 3/4 full: Take out the garbage and put in a fresh bag. If you are Friday or Saturday Lunch Clean taking out the trash is mandatory!
 
 #### Bathroom Clean (Upstairs/Downstairs) (1 hour)
@@ -578,9 +543,6 @@ Under the direction of the Gnome Lord, you will be doing tasks such as stated be
 - Throw away or recycle (after washing them out!) bottles/cans or trash people rudely left in the common spaces.
 - Organize sofas and chairs so that the room looks nice.
 - Take out the trash and replace the trash bag.
-
----
-
 - Sweep and mop, THIS INCLUDES UPSTAIRS hallway and just sweeping the stairs.
     - Mopping only needs to be done once a week. Coordinate a system with the Labor Czar and other Commons Cleaner as soon as you are assigned this labor at the beginning of a semester to ensure labor is split evenly.
 - Commons Clean must be finished and signed-off for by midnight at the end of your assigned half of the week.
@@ -609,8 +571,6 @@ Laundry Room
 - Clean mop heads weekly in the washing machine. You MUST use the delicate cycle and put rubber bands around the strings so they do not tangle.
 
 Porch/Laundry Clean must be finished and signed-off for by midnight at the end of your assigned part of the week.
-
----
 
 This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
 
@@ -641,9 +601,6 @@ This jobs spans for the entire week. This means that you should look after recyc
 - Take and use reusable grocery bags from Fridge Room.
 - Follow list and try to buy cheapest items.
 - On the receipt, circle the date, total cost and shopper's initials at the top of the receipt. Also let KM know how much the shop cost.
-
----
-
 - Put all food in appropriate places. Bulk should be placed on appropriate storage shelf and a small amount put of guff shelves.
     - Label and put food marked for meals in a reusable bag either in the cook's fridge or on the cook's shelf. Certain items should not go in the fridge, so shoppers should ask if they aren't sure.
     - Anything frozen bought for dinners should be put in the fridge so that it will be thawed by the day it will be used. If it is to be used within the 3-4 days between shops, meat will not go bad.
@@ -669,9 +626,6 @@ Personal Fridge
 - Unmarked items will be placed in the guff fridge.
 - Never throw away new food. Staple items will not be thrown out until after their expiration dates. Food in the freezer becomes guff if the date is from a previous semester.
 - Restaurant leftovers and save plates should be tossed 1 week after the labeled date. It is a members responsibility to re-date items. Save plates will have a 24 hour grace period for the member to clean them before being assessed a personal mess fine.
-
----
-
 - If FC is still unsure whether or not to throw something away, they must first ask the person who owns the food and the Labor Czar second if the owner is not available.
 
 Guff Fridge
