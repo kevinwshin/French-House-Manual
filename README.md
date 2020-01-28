@@ -856,3 +856,38 @@ Garden Gnomes   | 1     |     |      |     |       |     |     |     |
 Fridge Clean    | 1     |     |      |     |       |     |     |     |
 Fridge Clean    | 1     |     |      |     |       |     |     |     |
 Porch & Laundry | 1     |     |      |     |       |     |     |     |
+
+---
+
+### REVISION HISTORY
+
+6/21/2016 (Jake)
+- Example proposal added
+- House Discretionary Fund limit added
+- Gnome Lord budget removed
+
+6/30/2016 (Jake)
+- Memco updated
+- Labor descriptions added and made aesthetically pleasing
+
+7/5/2016 (Jake)
+- 5 meals not required if labor does not allow.
+
+8/27/2017 (Greg/Roxanne)
+- Reformatting of manual to better fit zine format
+- Added seven cooperative principles
+- Fixed boarding rates typo
+
+01/14/2017 (Roxanne)
+- Abstention Voting Procedure added (approved 9.24.17)
+- Personal Mess Fines requires two witnesses
+- Gnome Lord budge added
+- Beautification Holiday amended to two hours over one weekend
+
+11/19/2018 (Kate)
+- Treasurer upped to 2 hours
+- House process changed to mandatory tour
+- Board labor upper to 3 hours
+- Hazard fines changed to labor-based punishment
+- Personal mess fines changed from $5 to 1 hour of labor
+- Labor fines updated
