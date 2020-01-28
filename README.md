@@ -797,3 +797,40 @@ Personal Fridge
 - Unmarked items will be placed in the guff fridge.
 - Never throw away new food. Staple items will not be thrown out until after their expiration dates. Food in the freezer becomes guff if the date is from a previous semester.
 - Restaurant leftovers and save plates should be tossed 1 week after the labeled date. It is a members responsibility to re-date items. Save plates will have a 24 hour grace period for the member to clean them before being assessed a personal mess fine.
+
+---
+
+- If FC is still unsure whether or not to throw something away, they must first ask the person who owns the food and the Labor Czar second if the owner is not available.
+
+Guff Fridge
+- Organize or throw away rotten or old food on shelves and in bins. (pay attention to bin and shelf labels, and clean the insides of bins/ organize contents)
+- Consolidate when possible and move leftovers to size appropriate containers.
+- Wash and sanitize any/all containers and dishes that you empty.
+    - Wipe down the front doors and insides of fridge with non-toxic cleaner.
+    - Trash or organize papers hanging from fridge.
+
+Fridge Clean should be finished and signed-off for by midnight at the end of your assigned part of the week.
+
+This jobs spans for the entire week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
+
+#### Weekend Kitchen Fairy (1 hours)
+- Clean and Jackson all dishes left in the kitchen and on the dining room/picnic table and put them away.
+    - Unless it has been made recently, dump out old coffee and clean French press.
+    - Using non-toxic cleaner, clean the inside of the sinks and then wash all sponges used so that they do not reek.
+- Put away any foods/spices/condiments left on counters and consolidate or clean (if empty)
+the container or plate with Cookie Monster treats.
+
+Surfaces
+- Using non-toxic cleaner, clean the wooden counter tops.
+- Using non-toxic cleaner, clean the counters around sinks, ledge under guff food and microwave table.
+
+Appliances
+- Using non-toxic cleaner, wipe down stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor or any other appliance left on the counter.
+
+General
+- Sweep and mop the kitchen floor.
+- Take out the garbage and put in a fresh bag.
+    - Make sure that you are using the correct sized bag and tie it off to keep it from falling into the can.
+
+- Finish Kitchen Fairy between 7pm and midnight on your assigned day and sign-off.
+    - You are not finished until all dishes, pans, silverware are put away (putting pots on the stove doesn't count as "away") and the Jackson
