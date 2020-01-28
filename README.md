@@ -769,3 +769,31 @@ This jobs spans for the entire week. This means that you should look after recyc
 - Take and use reusable grocery bags from Fridge Room.
 - Follow list and try to buy cheapest items.
 - On the receipt, circle the date, total cost and shopper's initials at the top of the receipt. Also let KM know how much the shop cost.
+
+---
+
+- Put all food in appropriate places. Bulk should be placed on appropriate storage shelf and a small amount put of guff shelves.
+    - Label and put food marked for meals in a reusable bag either in the cook's fridge or on the cook's shelf. Certain items should not go in the fridge, so shoppers should ask if they aren't sure.
+    - Anything frozen bought for dinners should be put in the fridge so that it will be thawed by the day it will be used. If it is to be used within the 3-4 days between shops, meat will not go bad.
+- Erase all items off of the list on the whiteboard that you were able to buy and circle or write items you were not able to find.
+- Complete shop by 4PM on Sundays and Wednesdays. This ensures food is available to cooks when they start cooking.
+
+#### Fridge Clean (1 Hour)
+- Alert house by writing a note on the whiteboard when we have an excess of any one food or item that needs to be eaten (examples: "LOTS of leftovers in Cook's Fridge!" or "Zucchini has been in the guff fridge all week. Eat them!")
+    - Write on the board when we run out of any staple item.
+
+Cook's Fridge
+- Save plates in the fridge for more than 48 hours must be moved to the kitchen, with 24 hours being given to the owner of the save plate, after which time a $5 Personal Mess Fine can be assessed.
+- Consolidate when possible and move leftovers to size appropriate containers.
+- Throw away all rotten or old leftovers. Wash any/all containers and dishes that you empty.
+- Wipe down the front doors and insides of fridge with non-toxic cleaner.
+
+Freezer
+- Organize, defrost and clean freezer. Meat should always go on the bottom, then fruits/veggies, etc. and bread on top. Note any staples that have run out on the board.
+
+Personal Fridge
+- Everything must be labeled with owner's initials and the date food was put in the fridge, with the exception of alcohol which should still be initialed.
+- Food stored in a large bag will be left alone if it is initialed and dated, but after 1 month it will be thrown away. It is the responsibility of the owner to re-date old items to prevent them from being thrown out.
+- Unmarked items will be placed in the guff fridge.
+- Never throw away new food. Staple items will not be thrown out until after their expiration dates. Food in the freezer becomes guff if the date is from a previous semester.
+- Restaurant leftovers and save plates should be tossed 1 week after the labeled date. It is a members responsibility to re-date items. Save plates will have a 24 hour grace period for the member to clean them before being assessed a personal mess fine.
