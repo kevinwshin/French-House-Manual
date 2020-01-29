@@ -342,7 +342,7 @@ Officers elected for Interim should be members which are going to spend a large 
 Labor is at the discretion of Interim Labor Czar. If you are not going to be at the house for a period during interim, it is your responsibility to let the Labor Czar know in advance so that the very fluid labor schedule during interim can remain uninterrupted. The warning and fine system set during the semester preceding interim will be used as the template for this time period.
 
 ### Interim House Process
-Interim house process is the same as the semester house process. Prospective new members should take a tour in person or over Skype
+Interim house process is the same as the semester house process. Prospective new members should take a tour in person or over a video call
 
 ---
 
@@ -387,7 +387,7 @@ Kitchen Manager is responsible for the food of the house, dictating the recipe s
 5. Ensure all Health Department regulations are being followed.
 
 ### Membership Coordinator (1 hour)
-Membership must ensure all emails from prospective new members are answered quickly, and coordinate with them to help complete their house process, whether it be through a Skype interview or in-person interview.
+Membership must ensure all emails from prospective new members are answered quickly, and coordinate with them to help complete their house process, whether it be through a video-call interview or in-person interview.
 
 1. Attend all officer trainings/orientations.
 2. Take meeting minutes and post them on the French House Facebook group as well as emailing them to the member list, so that all members can clearly see them.
