@@ -8,14 +8,14 @@ This guide is meant to maintain some consistency in the house manual as it is ma
 - Monetary values should exclude the cents when the amount of cents is zero  
 - Slash marks should not be surrounded by spaces.
 - *Italicize* to emphasize. Don't write in all caps.
-- "Cooperative" not "co-operative."
-- "Couch surfer" should not be capitalized unless occurring at the beginning of a sentence.
+- "cooperative" not "co-operative"
 - The following words/phrases should be capitalized:
     - "French House"
     - the title of any officer when used to refer to a person (e.g., the Treasurer or the Trustee)
     - the name of any labor when used to refer to a person (e.g., the Fridge Clean)
-    - "Member Orientation"
+    - "Member Orientation" and "House Meeting"
     - "House Friends"
     - "Labor Holiday" and "Beautification Holiday"
     - "Cooks' Fridge", "Guff Fridge", "Personal Fridge", "Alcohol Fridge", and "Freezer"
+    - "Cup Run"
     - "AM" and "PM"

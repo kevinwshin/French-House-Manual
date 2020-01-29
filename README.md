@@ -119,36 +119,37 @@ House members may raise objections about a prospective member directly to the tr
 *See also, Interim: House Process*
 
 ### Member Orientation
-All members must be present for Member Orientation, run by the Trustee and Labor Czar, directly following the first meeting of each semester. This orientation will include a quick overview of major rules, a hands-on tour of the kitchen (Jackson rules, cast iron cleaning, where things go/are,) save plate policy, etc.
+All members must be present for Member Orientation, run by the Trustee and Labor Czar, directly following the first meeting of each semester. This orientation will include a quick overview of major rules, a hands-on tour of the kitchen (Jackson rules, cast iron cleaning, where things go/are), save plate policy, etc.
 
-This is optional for members who have lived at French House for 3 semester or more.
+This is optional for members who have lived at French House for 3 semesters or more.
 
 If no new members move in over the interim periods, the orientation is optional at the discretion of Labor Czar and Trustee. If new members move in during the semester, whether they need a Member Orientation is at the discretion of Labor Czar and Trustee.
 
 ### House Meetings
-Mandatory meetings occur every other Sunday after dinner, and all French House members are required to attend. The date of a meeting may be changed by informal or formal house vote but must be done 48 hours in advance. Showing up late to meetings, leaving early, or leaving for extended periods (greater than 10 minutes) will result in your being marked absent.
+Mandatory meetings occur every other Sunday after dinner, and all French House members are required to attend. The date of a meeting may be changed by informal or formal house vote but must be done 48 hours in advance. Showing up late to meetings, leaving early, or leaving for extended periods (greater than 10 minutes) will result in being marked absent.
 
-Unexcused absences  
+#### Unexcused absences  
 Officers: Maximum of one unexcused absence before $5 fine.  
-        Three unexcused absences will result in member review.  
+Three unexcused absences will result in member review.
+
 Members: Maximum of two unexcused absences before $5 fine.  
-        Four unexcused absences will result in member review.  
+Four unexcused absences will result in member review.
 
 Meetings must maintain quorum (defined by greater than 50% of the house) in order to make house decisions. Assuming quorum is met, a vote may pass only if the vote is a true majority (5 votes for, 5 abstaining would be a failed vote.)
 
 If you cannot attend a meeting you must notify the Trustee 24 hours in advance. If you miss a meeting, you are expected to read the minutes and will be held accountable for any decisions made at meetings, regardless of attendance.
 
-The General Membership Meeting (GMM), counts as a mandatory house meeting and being absent without notifying the Trustee with a reasonable excuse will count as an absence.
+The General Membership Meeting (GMM), counts as a mandatory House Meeting and being absent without notifying the Trustee with a reasonable excuse will count as an absence.
 
-Proposals, which are changes to the house manual, or an allocation of house funds, must be submitted to the Trustee 48 hours or more before a meeting. The trustee will post and/or email a meeting agenda every Friday preceding a meeting by midnight. House members can bring forward one spontaneous proposal which was not submitted to the Trustee each semester, which must be voted in by a 2/3 house vote.
+Proposals, which are changes to the house manual or an allocation of house funds, must be submitted to the Trustee 48 hours before a meeting. The Trustee will post and/or email a meeting agenda every Friday preceding a meeting by midnight. House members can bring forward one spontaneous proposal which was not submitted to the Trustee each semester, which must be voted in by a 2/3 house vote.
 
 A spontaneous proposal, regardless of whether it passes or fails, may only be introduced once per member, per semester.
 
 ### Abstention Voting
-"Abstention" votes are removed from the voting pool and per Robert's Rules of Order. Abstentions are counted and noted, but not as a "yes" or "no" vote. An abstention does not affect the voting result. A member has a right to abstain and cannot be compelled to vote. A member has an obligation to abstain if he or she has a direct personal interest in the matter that amounts to a legal conflict of interest. The total of "yes" and "no" votes must meet quorum for a vote to pass, otherwise it fails by abstention. If quorum os met and there are more "yes" votes than "no" votes, the motion passes.
+"Abstention" votes are removed from the voting pool as per Robert's Rules of Order. Abstentions are counted and noted but not as a "yes" or "no" vote. An abstention does not affect the voting result. A member has a right to abstain and cannot be compelled to vote. A member has an obligation to abstain if they have a direct personal interest in the matter that amounts to a legal conflict of interest. The total of "yes" and "no" votes must meet quorum for a vote to pass, otherwise it fails by abstention. If quorum is met and there are more "yes" votes than "no" votes, the motion passes.
 
 ### Smoking
-Common areas and personal areas are smoke free. Smoking is allowed outside only. if the member living in room #1 has a problem with smoke, they may bring it up at a meeting and it will be prohibited until the member moves out, changes rooms, or decides to re-allow it.
+Common areas and personal areas are smoke free. Smoking is allowed outside only. If the member living in room #1 has a problem with smoke, they may bring it up at a meeting, and it will be prohibited until the member moves out, changes rooms, or decides to re-allow it.
 
 ### Parking
 Only French House members may park in the lot or driveway. Guests may not park there. If you need to momentarily pull into the driveway, you must be available to move your car. Double parking is not acceptable.
@@ -157,34 +158,34 @@ Only French House members may park in the lot or driveway. Guests may not park t
 1. No animals allowed.
 2. Television use in common areas is outlawed, excepting for special events such as a house movie night (if a member's TV is used for such an event it must be removed from commons by evening).
 3. Entering a housemate's room without permission is considered a violation of privacy and such acts may warrant a Member Review.
-4. No singing, live, or loud music after 10PM Sundays through Thursdays. Members should lower music when asked by a housemate, regardless of time of day.
+4. No singing, live, or loud music after 10 PM Sundays through Thursdays. Members should lower music when asked by a housemate, regardless of time of day.
 5. Members must be courteous and abide by French House and ICC policies.
 6. Members must help with house security by locking windows and doors when nobody is in the common areas, as well as turning off lights when leaving a room.
 7. Not knowing a rule does not make a housemate exempt from said rule.
 
 ### Roof Access
-Being of the roof for any reason is an act punishable by a fine of $50.00 and/or eviction (ICC Standing Rule.)
+Being on the roof for any reason is an act punishable by a fine of $50 and/or eviction (ICC Standing Rule.)
 
 ### Cup Runs
-A house officer may call a Cup Run by writing a note on the whiteboard 24 hours in advance. Two volunteers, one of which must be an officer, will go from room to room collecting house dishes. If the occupant is not home, the room may be opened with the extra key (failure by the officers to gain access to the key box will result in the member getting a free pass should their door be locked.) Additionally, if someone does not want their room accessed, they may leave their dishes outside their room with a note, and their room will be left alone.
+A house officer may call a Cup Run by writing a note on the whiteboard 24 hours in advance. Two volunteers, one of which must be an officer, will go from room to room collecting house dishes. If the occupant is not home, the room may be opened with the extra key (failure by the officers to gain access to the key box will result in the member getting a free pass should their door be locked). Additionally, if someone does not want their room accessed, they may leave their dishes outside their room with a note, and their room will be left alone.
 
-The room with the most points must wash all the Cup Run dishes - 1/2 point will be awarded for every utensil, 1 full point for all other dishes.
+The room with the most points must wash all the Cup Run dishes - 1/2 point will be awarded for every utensil and 1 full point for all other dishes.
 
 ### Commons and Bikes
-Members should remove all personal items from common spaces every day. A personal mess fine can be given by an officer to anyone leaving personal items or dishes in the commons for over 24 hours. Items left in the kitchen for 5 hours or more are also applicable for a personal mess fine.
+Members should remove all personal items from common spaces every day. A personal mess fine can be given by an officer to anyone leaving personal items or dishes in the commons for over 24 hours. Items left in the kitchen for five hours or more are also applicable for a personal mess fine.
 
-Bikes are not allowed in the commons for any extended amount of time. If you need to leave your bike in the commons for 5 minutes or less, that is acceptable, however any additional time can result in a $5.00 fine.
+Bikes are not allowed in the commons for any extended amount of time. If you need to leave your bike in the commons for five minutes or less, that is acceptable, however any additional time can result in a $5 fine.
 
 ### House Parties
-A proposal should be made for house parties of any kind and presented at a House Meeting. Majority vote is required for the party to be allowed. If any proposed party is for a group/organization/cause that is not directly related to French House, the proposer will be responsible for party cleanup.
+A proposal should be made for house parties of any kind and presented at a House Meeting. A majority vote is required for the party to be allowed. If any proposed party is for a group/organization/cause that is not directly related to French House, the proposer will be responsible for party cleanup.
 
-When a party is proposed 7 labor positions must be filled, including post-party commons and grounds cleans. If you do not do your labor by 5PM the day following a party, you will be assessed with a warning or violation.
+When a party is proposed, seven labor positions must be filled, including post-party commons and grounds cleans. If you do not do your labor by 5 PM the day following a party, you will be assessed with a warning or violation.
 
-Any member which attends a house party must sign up for Party Labor.  
+Any member who attends a house party must sign up for party labor.  
 *See also, Labor: Party Labor.*
 
 ### Roommate Contracts
-Roommate contracts serve as official agreements between roommates regarding the rules and expectations for a room. The content of a contract is at discretion of the roommates themselves, with the Trustee facilitating the creation of each contract at the start of a semester. For the contract to be enforced and adhered to, one roommate may go to the Trustee at any time they feel the contract has been breached, and the Trustee can then levy violations on the offending roommate. The third violation of the contract results in a conflict mediation, while the fourth results in a member review. See: later in the manual for sample roommate contract.
+Roommate contracts serve as official agreements between roommates regarding the rules and expectations for a room. The content of a contract is at the discretion of the roommates themselves, with the Trustee facilitating the creation of each contract at the start of a semester. For the contract to be enforced and adhered to, one roommate may go to the Trustee at any time they feel the contract has been breached, and the Trustee can then levy violations on the offending roommate. The third violation of the contract results in a conflict mediation, while the fourth results in a member review. See: later in the manual for sample roommate contract.
 
 ---
 
@@ -192,55 +193,58 @@ Roommate contracts serve as official agreements between roommates regarding the 
 *Nobody may stay at French House more than 2 weeks without a contract from ICC.*
 
 ### Boarders
-Prospective boarders must be approved by a majority house vote. New boarders must pay half of their first month's boarding fees at the beginning of the month. After the first month any payment plan must be decided by the Treasurer. Boarders may pay for access to both the kitchen and house dinners or choose a plan which only allows a choice of meals or kitchen access.
+Prospective boarders must be approved by a majority house vote. New boarders must pay half of their first month's boarding fees at the beginning of the month. After the first month, any payment plan must be decided by the Treasurer. Boarders may pay for access to both the kitchen and house dinners or choose a plan which only allows a choice of meals or kitchen access.
 
-Boarding Costs:  
-With Labor      : $105/mo   Kitchen OR Meals, no Labor  : $60  
-Without         : $120/mo   Kitchen OR Meals + Labor    : $45
+#### Boarding Costs:  
+with labor: $105/mo  
+without: $120/mo
+#### Kitchen OR Meals
+with labor: $45  
+without labor: $60
 
 ### Guests
 An ICC-contracted member (boarders not included) must be responsible, and will be held liable, for any guest at the house. If any personal property damage occurs, the guest's sponsor will be held liable. It is their responsibility to replace the property, pay for repairs, or allocate resources to make the situation right in the eyes of the property owner.
 
-Frequent visitors may be voted in as House Friends, which effectively makes the entire house liable for their actions, rather than an individual member. House Friends can know the house code and must be voted in by a house majority at a meeting. House friends will be reviewed on a semesterly basis.
+Frequent visitors may be voted in as House Friends, which effectively makes the entire house liable for their actions, rather than an individual member. House Friends can know the house code and must be voted in by a majority vote at a meeting. House friends will be reviewed on a semesterly basis.
 
-Guests may eat two dinners within a two-week span at the house for free but must pay per meal for additional meals. Guests have kitchen access, but not guff food access.
+Guests may eat two dinners within a two-week span at the house for free but must pay per meal for additional meals. Guests have kitchen access but not guff food access.
 
 The house may review liability for specific situations on a case-by-case basis, as this policy may not appropriately apply in certain situations.
 
 ### Couch Surfers
 French House accepts couch surfers under the following strict guidelines:
-1. A couch surfer should request a couch with a two-week notice so that they may be approved at a house meeting.
-2. Maximum of two weeks stay at the house.
+1. A couch surfer should request a couch with a two-week advance notice so that they may be approved at a House Meeting.
+2. They may stay a maximum of two weeks at the house.
 3. Couch surfers will not receive the door code.
-4. Any member may evict a surfer at any time, at their own discretion
+4. Any house member may evict a couch surfer at any time, at their own discretion.
 5. Any dissent from any member of the house during a vote process will result in the couch surfer being rejected.
 
 ---
 
 ## Kitchen
-The kitchen is open 24 hours and food is available to all members unless it is personal food or food which is to be used in the preparation of a meal. If you cook with something or use a dish you *must* clean it. Dishes are not allowed to be stored in the sink. Anyone who puts dishes in the sink, except for dinner clean, is subject to a personal mess fine.
+The kitchen is open 24 hours, and food is available to all members unless it is personal food or food which is to be used in the preparation of a house meal. If you cook with something or use a dish, you *must* clean it. Dishes are not allowed to be left in the sink. Anyone who leaves dishes in the sink, other than for kitchen clean, is subject to a personal mess fine.
 
 ### Sanitation
-Be courteous to to other members and follow all state and city health regulations. Practice cleanliness and do not sit or put your feet on the island or counters.
+Be courteous to other members, and follow all state and city health regulations. Practice cleanliness, and do not sit or put your feet on the island or counters.
 
 If anything you use comes in contact with raw meat, you must clean or otherwise replace it with another cutting board/knife/plate, etc. if you plan to use the dish for *anything* else.
 
 The Jackson is a sanitizer, not a dishwasher. All items must be cleaned on the tops and bottoms for food remnants, with soap, before being placed in the Jackson.
 
 ### Chef Pots/Bowls/Cutting Boards
-Chef pots, bowls, and cutting boards are not to be removed from the kitchen by any member of the house. Pots, cutting boards and bowls (the metal mixing bowls or large plastic bowls) should always remain in the kitchen. Tupperware can be used as an alternative.
+Chef pots, bowls, and cutting boards are not to be removed from the kitchen. Pots, cutting boards, and bowls (the metal mixing bowls or large plastic bowls) should always remain in the kitchen. Tupperware can be used as an alternative.
 
 ### Dinners
-Dinners are served Sunday through Thursday night at 7:00 PM. A veggie option is not guaranteed, but a Kitchen Manager may request cooks accommodate. You may request a save plate if you are not home for dinner, but you must clean it regardless of if you eat the food.
+Dinners are served Sunday through Thursday nights at 7 PM. A veggie option is not guaranteed, but a Kitchen Manager may request cooks to accommodate. You may request a save plate if you are not home for dinner, but you must clean it regardless of whether you eat the food.
 
-If labor does not allow for five cooks per week, the Labor Czar may cut a meal with consent of the house.
+If labor does not allow for five dinners per week, the Labor Czar may cut a meal with the consent of the house.
 
-While the chefs of the house are making their food from 5-7:00 PM, the house kitchen should not be used unless you have no other recourse *and* the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yourself to prepare a five-course feast and delay the person cleaning. You may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
+While the chefs of the house are making their food from 5-7 PM, the house kitchen should not be used unless you have no other recourse *and* the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yourself to prepare a five-course feast and delay the person cleaning. You may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
 
 ### Personal Food
 All personal food in the fridge, freezer, or shelf must be labeled with the owner's initials and the date the food was placed there. Alcohol does not require initials.
 
-Bagged food will be kept for up to one month after its marked date. Restaurant leftovers will only be left for 1 week. Any food that is rotten or past its expiration date will be thrown out, regardless of the date it was labeled.
+Bagged food will be kept for up to one month after its marked date. Restaurant leftovers will only be left for one week. Any food that is rotten or past its expiration date will be thrown out, regardless of the date it was labeled.
 
 Food in the freezer will be moved to the Guff Freezer if it was labeled in a prior semester. Fridge Clean will never throw out new items, but it is the responsibility of the owner of the personal food to accurately label or relabel their items.
 
@@ -254,23 +258,23 @@ Group save plates are not an option and will result in a warning for the cooks t
 ## LABOR
 
 ### General Policy
-Housemates must fulfill 4-5 hours per week of labor requirements to be set by the Labor Czar. Housemates are personally responsible for their labor and in the event that they cannot complete it, should make arrangements to switch labor with another housemate. In the event of a switch, both parties must alert the Labor Czar of a change to their respective labor.
+Housemates must fulfill 4-5 hours per week of labor requirements to be set by the Labor Czar. Housemates are personally responsible for their labor and in the event that they cannot complete it, should make arrangements to switch labor with another housemate. In the event of a switch, both parties must alert the Labor Czar of the change to their respective labors.
 
-If a house member will have an absence of two weeks or more, they need to alert the Labor Czar at least one week in advance in order to account for labor changes.
+If a house member will have an absence of two weeks or more, they must alert the Labor Czar at least one week in advance in order to account for labor changes.
 
 If labor spans the entire week, the Labor Czar may ask for additional tidying when labor requires it, to be completed within 24 hours of asking.
 
 ### Labor & Beautification Holiday
-Labor Holiday is a mandatory house event wherein the house should be deep cleaned, while Beautification Holiday is a mandatory even wherein new projects, art and remodeling of the house should be the focus. The date of each holiday will be decided by a house vote - Labor Holiday must take place within the first 6 weeks of each semester, and Beautification Holiday should occur at a voted-on time following it.
+Labor Holiday is a mandatory house event wherein the house should be deep cleaned, and Beautification Holiday is a mandatory event wherein new projects, art, and remodeling of the house should be the focus. The date of each holiday will be decided by a house vote - Labor Holiday must take place within the first six weeks of each semester, and Beautification Holiday should occur at a voted-on time following Labor Holiday.
 
-Labor Holiday assignments will be decided by the Labor Czar and announced that morning. Each member will be given a minimum of 4 hours of labor, and their job will be finished when they have worked 4 hours, or their assigned labor is completed - whichever comes last.
+Labor Holiday assignments will be decided by the Labor Czar and announced that morning. Each member will be given a minimum of 4 hours of labor, and their job will be finished when they have worked at least 4 hours *and* their assigned labor is completed.
 
-Beautification Holiday assignments will be decided on by the house. Beautification Holiday is a mandatory event during Fall and Spring semesters wherein each member must complete 2 hours of beautification labor over the course of one weekend. Beautification Holiday is voluntary event during Summer session.
+Beautification Holiday assignments will be decided on by the house. Beautification Holiday is a mandatory event during Fall and Spring semesters wherein each member must complete two hours of beautification labor over the course of one weekend. Beautification Holiday is a voluntary event during Summer session.
 
-If a member is unable to attend Labor or Beautification Holiday, they will be given makeup labor to be made up within a month of the holiday, if makeup labor is not completed there will be a member review. Not alerting the Labor Czar of an absence from the Holiday will result in an automatic member review.
+If a member is unable to attend Labor or Beautification Holiday, they will be given makeup labor to be made up within a month of the holiday. If makeup labor is not completed, there will be a member review. Not alerting the Labor Czar of an absence from the Holiday will result in an automatic member review.
 
 ### Makeup Labor
-All missed labor will result in makeup labor to be assigned by the Labor Czar. This labor must be made up in a time determined (within reason) by the Labor Czar. The Labor Czar must keep a hard copy of violations and warnings in addition to the white board.
+All missed labor will result in makeup labor to be assigned by the Labor Czar. This labor must be made up in a time determined (within reason) by the Labor Czar. The Labor Czar must keep a hard copy of violations and warnings in addition to the whiteboard.
 
 ### Labor Warning/Fines System
 Current Warning/Fine System:  
@@ -279,12 +283,12 @@ Current Warning/Fine System:
 3rd Offense: Labor violation to be displayed on whiteboard, makeup labor  
 4th Offense: Labor violation to be displayed on whiteboard, house-wide conflict mediation
 
-At the conflict mediation the house will decide the terms for the member-in-question's good standing with the house
+At the conflict mediation, the house will decide the terms for the member-in-question's good standing with the house.
 
 ### Party Labor
 Any member attending a party for any amount of time will be required to assist in party labor.
 
-Party Labor is to be organized by either the Education Officer, the proposer of a party, or the Labor Czar. If Party Labor is not organized, the proposer of the party will be responsible for cleanup.  
+Party labor is to be organized by either the Education Officer, the proposer of a party, or the Labor Czar. If Party Labor is not organized, the proposer of the party will be responsible for cleanup.  
 *See also, Basic House Guidelines: House Parties*
 
 ---
@@ -292,14 +296,14 @@ Party Labor is to be organized by either the Education Officer, the proposer of 
 ## FINES & PURCHASES
 
 ### House Purchases
-Any house purchases above $25 must be approved at a house meeting through a proposal. The Treasurer will issue a check for all approved expenditures. When returning a receipt to the Treasurer, you must write your initials, circle the date, and circle the total before putting it in the wooden box at the base of the stairs.
+Any house purchases above $25 must be approved at a House Meeting through a proposal. The Treasurer will issue a check for all approved expenditures. When returning a receipt to the Treasurer, you must write your initials, circle the date, and circle the total before putting it in the wooden box at the base of the stairs.
 
-If a housemate loses a receipt, they will be required to pay half of the ICC fine, and will pay the full fine on a second offense. This process begins anew every semester.
+If a housemate loses a receipt, they will be required to pay half of the ICC fine and will pay the full fine on a second offense. This process begins anew every semester.
 
 ### House Discretionary Funds
-Each month funds are given to the house $120 per person, of which 12.5% is meant to be used for discretionary purchases or put towards savings. Any small purchase or house purchase which causes the house to exceed our monthly discretionary fund budget requires a 2/3 vote of quorum.
+Each month, $120 per house member is given to the house, of which 12.5% is meant to be used for discretionary purchases or put towards savings. Any small purchase or house purchase which causes the house to exceed our monthly discretionary fund budget requires a 2/3 vote.
 
-At the last meeting of every month the Treasurer should give a detailed account of spending for the month as well as let the house know what the discretionary funds budge for the next month will be.
+At the last meeting of every month, the Treasurer should give a detailed account of spending for the month, as well as let the house know what the discretionary funds budget for the next month will be.
 
 ### Small Purchases
 If a house member would like to make a small purchase for the betterment of the house, they need two officers to approve said purchase, one of which must be the Treasurer.
@@ -307,42 +311,42 @@ If a house member would like to make a small purchase for the betterment of the 
 If the member proposing the purchase is an officer, they must find two additional officers to approve the purchase. If the member proposing the purchase is the Treasurer, they must get the approval of the Trustee.
 
 ### Personal Mess Fines
-A personal mess includes any personal items, leftover dishes or cookware left in common areas for more than 24 hours. Officers may asses a fine of 1 hour of labor which will be assigned by the labor czar. If you notice someone leaves something behind, bring it to his or her attention before alerting an officer. There must be two witnesses in order to issue a personal mess fine. Three personal mess fines will result in a labor violation.
+A personal mess includes any personal items, leftover dishes, or cookware left in common areas for more than 24 hours. Officers may asses a fine of one hour of labor which will be assigned by the Labor Czar. If you notice someone leaves something behind, bring it to their attention before alerting an officer. There must be two witnesses in order to issue a personal mess fine. Three personal mess fines will result in a labor violation.
 
-No dishes can sit in the sink. In the event a member places dishes in the sink, personal mess fine can be issued. The only exception to this rule is the use of the sink during Dinner Clean.
+No dishes can sit in the sink. In the event a member places dishes in the sink, personal mess fine can be issued. The only exception to this rule is the use of the sink during any kitchen clean.
 
 ### Maintenance Fines
-Performing an act deemed unsafe by the Maintenance Officer, or which puts the house itself at risk can result in makeup labor or a member review. Any "unsafe act" must be mentioned at a meeting. Punishment will be administered in the following manner:
+Performing an act deemed unsafe by the Maintenance Officer or which puts the house itself at risk can result in a labor fine or a member review. Any "unsafe act" must be mentioned at a meeting. Punishment will be administered in the following manner:
 
 First offense: warning  
-Second offense: One hour of labor  
-Third offense: Two hours of labor  
-Fourth offense: Two hours of labor and conflict mediation  
-Fifth offense or more: Member review and if still a member two hours of labor
+Second offense: one hour of labor  
+Third offense: two hours of labor  
+Fourth offense: two hours of labor and conflict mediation  
+Fifth offense or more: member review and two hours of labor if still a member
 
 ### Officer Fines
 
-Officers which do not complete their duties as outlined in the Officer Roles section of the manual may be reprimanded with a Labor Violation, given by:  
+Officers who do not complete their duties as outlined in the Officer Roles section of the manual may be reprimanded with a Labor Violation, given by:  
 1. Any group of three housemates who collaboratively decide to issue a fine, to be reported to the Treasurer or Labor Czar for collection. This fine can be reviewed and vetoed by 2/3 officer vote.
 2. A majority of the house at a meeting.
 3. Any two officers.
 
-If an Officer has not adhered to their responsibilities, they may be impeached at a House Meeting.
+If an officer has not adhered to their responsibilities, they may be impeached at a House Meeting.
 
 ---
 
 ## INTERIM
 
-The Trustee must plan to have the period when interim will start mapped out at the second to last house meeting of a semester. It can then be voted on, and interim officers can be elected at the final meeting. Interim will then last until contracts end.
+The Trustee must plan to have the period when interim will start mapped out at the second-to-last House Meeting of a semester. It can then be voted on, and interim officers can be elected at the final meeting. Interim will then last until contracts end.
 
 ### Interim Officers
-Officers elected for Interim should be members which are going to spend a large amount of time at the house during the period. There are three officer positions required to be filled, but others may be added at house discretion. The positions are as follows: Trustee/Membership (3), Labor Czar (3), Kitchen Manager/Treasurer (3)
+Officers elected for interim should be members who are going to spend a large amount of time at the house during the period. There are three officer positions which are required to be filled, but others may be added at the discretion of the house. The positions are as follows: Trustee/Membership (3 hours), Labor Czar (3 hours), and Kitchen Manager/Treasurer (3 hours).
 
 ### Interim Labor
-Labor is at the discretion of Interim Labor Czar. If you are not going to be at the house for a period during interim, it is your responsibility to let the Labor Czar know in advance so that the very fluid labor schedule during interim can remain uninterrupted. The warning and fine system set during the semester preceding interim will be used as the template for this time period.
+Labor is at the discretion of the interim Labor Czar. If you are not going to be at the house for a period during interim, it is your responsibility to let the Labor Czar know in advance, so that the very fluid labor schedule during interim can remain uninterrupted. The warning and fine system set during the semester preceding interim will be used as the template for this time period.
 
 ### Interim House Process
-Interim house process is the same as the semester house process. Prospective new members should take a tour in person or over a video call
+The interim house process is the same as the semester house process. Prospective new members should take a tour in person or over a video call.
 
 ---
 
@@ -353,7 +357,7 @@ Trustee is responsible for running the house, must have a working knowledge of b
 
 1. Attend all officer trainings/orientations
 2. Run the New Member Orientation at the start of each semester.
-3. Call and run a house meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems & concerns.
+3. Call and run a House Meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems & concerns.
 4. Act as a mediator in conflict resolutions between members.
 5. Coordinate elections of the French House elected positions - it is the responsibility of the Trustee to ensure all positions remain filled and fill-in positions in the event it is necessary.
 6. Monitor other French House officers' job performances. It is the responsibility of the Trustee to bring up any issues regarding officers at meetings.
@@ -408,7 +412,7 @@ Treasurer is responsible for managing the budget of the house as well as writing
 1. Be the voice of dissent on any and all purchases. People want to spend house funds, it is your job to remind them that there must be funds left over for future semesters. Be responsible.
 2. Attend all officer trainings/orientations
 3. Keep accurate and timely accounting records of French House Financing according to the ICC Treasurer's Manual: this includes balancing the checkbook, saving associated receipts, and recording and paying house bills as they arrive. Ensure that your own records are easy to follow and understand for future Treasurers and your own piece of mind.
-4. Manage semesterly and monthly cash flow and deliver an accurate report of it at house meetings.
+4. Manage semesterly and monthly cash flow and deliver an accurate report of it at House Meetings.
 5. Issue checks only when the house account has sufficient funds available. A bounced check is grounds for immediate removal from the position.
 6. Promptly pay all house bills and assessments at the office by the 5th of each month.
 7. Keep the house within a reasonable budget. Work with both Maintenance and Kitchen Manager to ensure we're not buying things we do not need.
@@ -438,7 +442,7 @@ Maintenance is responsible for making sure the house is running smoothly. This i
 ### Board Representative (3 hours)
 Board representative is meant to be an active presence at meetings, informing members of the house of upcoming ICC events and the happenings at board meetings.
 
-1. Attend all Board meetings, assigned committee meetings, officer training/orientations, and report ICC activities and decisions at all house meetings. You represent the house and the ICC in corporate decision-making.
+1. Attend all Board meetings, assigned committee meetings, officer training/orientations, and report ICC activities and decisions at all House Meetings. You represent the house and the ICC in corporate decision-making.
 2. Be well versed in all local, state and federal laws and ensure they are being upheld in French House. Work to avoid civil litigation.
 3. Have a working knowledge of ICC and French House rules and act as a resource for other officers and your housemates along with Trustee.
 4. With the help of the Trustee and the other officers of the house, provide leadership and direction in all French House activities.
@@ -452,7 +456,7 @@ Education is responsible for getting things done. If the semester is regarded as
 2. Plan out and carry out at least one major educational event per semester.
 3. Organize and oversee all parties and events held by the house. Work with the Labor Czar or Party Proposer in order to ensure that Party Labor is adequately and promptly completed.
 4. Survey the house at the start of each semester and find out what types of events they will be interested in during the session - work to get these things done and scheduled quickly!
-5. Education has a budget of $50 per month for events. Anything in excess must be voted on at a house meeting.
+5. Education has a budget of $50 per month for events. Anything in excess must be voted on at a House Meeting.
 
 ### Historian (1 hour)
 House Historian is in charge of keeping both a photographic and historical record of house events and the house at large.
