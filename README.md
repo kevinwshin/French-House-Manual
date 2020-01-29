@@ -6,28 +6,28 @@
 
 ---
 
-## THE SEVEN CO-OPERATIVE PRINCIPLES
+## THE SEVEN COOPERATIVE PRINCIPLES
 
 ### VOLUNTARY AND OPEN MEMBERSHIP
-Co-operatives are voluntary organizations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political, or religious discrimination.
+Cooperatives are voluntary organizations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political, or religious discrimination.
 
 ### DEMOCRATIC MEMBER CONTROL
-Co-operatives are democratic organizations controlled by their members, who actively participate in setting their policies and making decisions. People serving as elected representatives are accountable to the membership. In primary co-operatives, members have equal voting rights (one member, one vote), and co-operatives at other levels are also organized in a democratic manner.
+Cooperatives are democratic organizations controlled by their members, who actively participate in setting their policies and making decisions. People serving as elected representatives are accountable to the membership. In primary cooperatives, members have equal voting rights (one member, one vote), and cooperatives at other levels are also organized in a democratic manner.
 
 ### MEMBER ECONOMIC PARTICIPATION
-Members contribute equitably to, and democratically control, the capital of their co-operative. At least part of that capital is usually the common property of the co-operative. Members usually receive limited compensation, if any, on capital subscribed as a condition of membership. Members allocate surpluses for any or all of the following purposes: developing their co-operative; possibly by setting up reserves, part of which at least would be indivisible; benefiting members in proportion to their transactions with the co-operative; and supporting other activities approved by the membership.
+Members contribute equitably to – and democratically control — the capital of their cooperative. At least part of that capital is usually the common property of the cooperative. Members usually receive limited compensation, if any, on capital subscribed as a condition of membership. Members allocate surpluses for any or all of the following purposes: developing their cooperative; possibly by setting up reserves, part of which at least would be indivisible; benefiting members in proportion to their transactions with the cooperative; and supporting other activities approved by the membership.
 
 ### AUTONOMY AND INDEPENDENCE
-Co-operatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their co-operative autonomy.
+Cooperatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
 
 ### EDUCATION, TRAINING AND INFORMATION
-Co-operatives provide education and training for their members, elected representatives, managers, and employees so they can contribute effectively to the development of their cooperatives. They inform the general public - particularly young people and opinion leaders - about the nature and benefits of co-operation.
+Cooperatives provide education and training for their members, elected representatives, managers, and employees so they can contribute effectively to the development of their cooperatives. They inform the general public - particularly young people and opinion leaders - about the nature and benefits of co-operation.
 
-### CO-OPERATION AMONG CO-OPERATIVES
-Co-operatives serve their members most effectively and strengthen the co-operative movement by working together through local, national, regional, and international structures.
+### COOPERATION AMONG COOPERATIVES
+Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, national, regional, and international structures.
 
 ### CONCERN FOR COMMUNITY
-Co-operatives work for the sustainable development of their communities through policies approved by their members.
+Cooperatives work for the sustainable development of their communities through policies approved by their members.
 
 ---
 
@@ -46,10 +46,10 @@ Commons and Bikes
 House Parties  
 Roommate Contracts  
 
-### BOARDERS, GUESTS, AND COUCHSURFERS
+### BOARDERS, GUESTS, AND COUCH SURFERS
 Boarders  
 Guests  
-Couchsurfers  
+Couch surfers  
 
 ### KITCHEN
 Sanitation  
@@ -98,7 +98,7 @@ Garden Gnome (1 Hour)
 Commons Clean (Upstairs & Downstairs) (1 Hour)  
 Bathroom Clean (Upstairs/Downstairs) (1 Hour)  
 Porch/Laundry Clean (1 Hour)  
-Trash / Recycling (1 Hour)  
+Trash/Recycling (1 Hour)  
 HEB/Costco Shop (2 Hours)  
 Fridge Clean (1 Hour)  
 Mail (Membership)  
@@ -155,7 +155,7 @@ Only French House members may park in the lot or driveway. Guests may not park t
 
 ### Common Interests
 1. No animals allowed.
-2. Television use in common areas is outlawed, excepting for special events such as a house movie night. (if a member's TV is used for such an event it must be removed from commons by evening)
+2. Television use in common areas is outlawed, excepting for special events such as a house movie night (if a member's TV is used for such an event it must be removed from commons by evening).
 3. Entering a housemate's room without permission is considered a violation of privacy and such acts may warrant a Member Review.
 4. No singing, live, or loud music after 10PM Sundays through Thursdays. Members should lower music when asked by a housemate, regardless of time of day.
 5. Members must be courteous and abide by French House and ICC policies.
@@ -188,7 +188,7 @@ Roommate contracts serve as official agreements between roommates regarding the 
 
 ---
 
-## BOARDERS, GUESTS, AND COUCHSURFERS
+## BOARDERS, GUESTS, AND COUCH SURFERS
 *Nobody may stay at French House more than 2 weeks without a contract from ICC.*
 
 ### Boarders
@@ -199,7 +199,7 @@ With Labor      : $105/mo   Kitchen OR Meals, no Labor  : $60
 Without         : $120/mo   Kitchen OR Meals + Labor    : $45
 
 ### Guests
-An ICC-contracted member (boarders not included) must be responsible, and will be held liable, for any guest at the house. If any personal propery damage occurs, the guest's sponsor will be held liable and it is their responsibility to replace the property, pay for repairs, or allocate resources to make the situation right in the eyes of the property owner.
+An ICC-contracted member (boarders not included) must be responsible, and will be held liable, for any guest at the house. If any personal property damage occurs, the guest's sponsor will be held liable. It is their responsibility to replace the property, pay for repairs, or allocate resources to make the situation right in the eyes of the property owner.
 
 Frequent visitors may be voted in as House Friends, which effectively makes the entire house liable for their actions, rather than an individual member. House Friends can know the house code and must be voted in by a house majority at a meeting. House friends will be reviewed on a semesterly basis.
 
@@ -208,7 +208,7 @@ Guests may eat two dinners within a two-week span at the house for free but must
 The house may review liability for specific situations on a case-by-case basis, as this policy may not appropriately apply in certain situations.
 
 ### Couch Surfers
-French House accepts Couch surfers under the following strict guidelines:
+French House accepts couch surfers under the following strict guidelines:
 1. A couch surfer should request a couch with a two-week notice so that they may be approved at a house meeting.
 2. Maximum of two weeks stay at the house.
 3. Couch surfers will not receive the door code.
@@ -218,12 +218,12 @@ French House accepts Couch surfers under the following strict guidelines:
 ---
 
 ## Kitchen
-The kitchen is open 24 hours and food is available to all members unless it is personal food or food which is to be used in the preparation of a meal. If you cook with something or use a dish you MUST clean it. Dishes are not allowed to be stored in the sink. Anyone who puts dishes in the sink, except for dinner clean, is subject to a personal mess fine.
+The kitchen is open 24 hours and food is available to all members unless it is personal food or food which is to be used in the preparation of a meal. If you cook with something or use a dish you *must* clean it. Dishes are not allowed to be stored in the sink. Anyone who puts dishes in the sink, except for dinner clean, is subject to a personal mess fine.
 
 ### Sanitation
-Be courteous to toher members and follow all state and city health regulations. Practice cleanliness and do not sit or put your feet on the island or counters.
+Be courteous to to other members and follow all state and city health regulations. Practice cleanliness and do not sit or put your feet on the island or counters.
 
-If anything you use comes in contact with raw meat, you must clean or otherwise replace it with another cutting board/knife/plate, etc. if you plan to use the dish for ANYTHING else.
+If anything you use comes in contact with raw meat, you must clean or otherwise replace it with another cutting board/knife/plate, etc. if you plan to use the dish for *anything* else.
 
 The Jackson is a sanitizer, not a dishwasher. All items must be cleaned on the tops and bottoms for food remnants, with soap, before being placed in the Jackson.
 
@@ -231,18 +231,18 @@ The Jackson is a sanitizer, not a dishwasher. All items must be cleaned on the t
 Chef pots, bowls, and cutting boards are not to be removed from the kitchen by any member of the house. Pots, cutting boards and bowls (the metal mixing bowls or large plastic bowls) should always remain in the kitchen. Tupperware can be used as an alternative.
 
 ### Dinners
-Dinners are served Sunday through Thursday night at 7:00 PM. A veggie option is not guaranteed, but a Kitchen Manager may request cooks accomodate. You may request a save plate if you are not home for dinner, but you must clean it regardless of if you eat the food.
+Dinners are served Sunday through Thursday night at 7:00 PM. A veggie option is not guaranteed, but a Kitchen Manager may request cooks accommodate. You may request a save plate if you are not home for dinner, but you must clean it regardless of if you eat the food.
 
 If labor does not allow for five cooks per week, the Labor Czar may cut a meal with consent of the house.
 
-While the chefs of the house are making their food from 5-7:00 PM, the house kitchen should not be used unless you have no other recourse AND the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yoursef to prepare a five-course feast and delay the person cleaning. you may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
+While the chefs of the house are making their food from 5-7:00 PM, the house kitchen should not be used unless you have no other recourse *and* the chefs' permission. Similarly, if surfaces are being cleaned, do not take it upon yourself to prepare a five-course feast and delay the person cleaning. You may cook only with the cleaner's permission. Use proper discretion and politeness when someone is doing their labor - if your duty is to clean the bathroom, you certainly wouldn't appreciate someone using it in the middle of that time.
 
 ### Personal Food
 All personal food in the fridge, freezer, or shelf must be labeled with the owner's initials and the date the food was placed there. Alcohol does not require initials.
 
-Bagged food will be kept for up to one month after its marked date. Resaurant leftovers will only be left for 1 week. Any food that is rotten or past its expiration date will be thrown out, regardless of the date it was labeled.
+Bagged food will be kept for up to one month after its marked date. Restaurant leftovers will only be left for 1 week. Any food that is rotten or past its expiration date will be thrown out, regardless of the date it was labeled.
 
-Food in the freezer will be moved to the guff freezer if it was labeled in a prior semester. Fridge clean will never throw out new items, but it is the responsibility of the owner of the personal food to accurately label or relabel their items.
+Food in the freezer will be moved to the Guff Freezer if it was labeled in a prior semester. Fridge Clean will never throw out new items, but it is the responsibility of the owner of the personal food to accurately label or relabel their items.
 
 ### Save Plates
 Anyone requesting a save plate must write their initials in the appropriate box on the whiteboard before dinner is served on the requested day. Save plates will then be protected for 24 hours after the meal and become guff after this period. Failure to eat or otherwise clean your save plate after 48 hours will result in a Personal Mess Fine, though the save plate may be moved to the personal fridge to work around this problem.
@@ -265,7 +265,7 @@ Labor Holiday is a mandatory house event wherein the house should be deep cleane
 
 Labor Holiday assignments will be decided by the Labor Czar and announced that morning. Each member will be given a minimum of 4 hours of labor, and their job will be finished when they have worked 4 hours, or their assigned labor is completed - whichever comes last.
 
-Beautification Holiday assignments will be decided on by the house. Beautification holiday is a mandatory event during Fall and Spring semesters wherein each member must complete 2 hours of beautification labor over the course of one weekend. Beautification holiday is voluntary event during Summer session.
+Beautification Holiday assignments will be decided on by the house. Beautification Holiday is a mandatory event during Fall and Spring semesters wherein each member must complete 2 hours of beautification labor over the course of one weekend. Beautification Holiday is voluntary event during Summer session.
 
 If a member is unable to attend Labor or Beautification Holiday, they will be given makeup labor to be made up within a month of the holiday, if makeup labor is not completed there will be a member review. Not alerting the Labor Czar of an absence from the Holiday will result in an automatic member review.
 
@@ -284,7 +284,7 @@ At the conflict mediation the house will decide the terms for the member-in-ques
 ### Party Labor
 Any member attending a party for any amount of time will be required to assist in party labor.
 
-Party Labor is to be organized by either the Education Officer, the proposer of a pary, or the Labor Czar. If Party Labor is not organized, the proposer of the party will be responsible for cleanup.  
+Party Labor is to be organized by either the Education Officer, the proposer of a party, or the Labor Czar. If Party Labor is not organized, the proposer of the party will be responsible for cleanup.  
 *See also, Basic House Guidelines: House Parties*
 
 ---
@@ -299,7 +299,7 @@ If a housemate loses a receipt, they will be required to pay half of the ICC fin
 ### House Discretionary Funds
 Each month funds are given to the house $120 per person, of which 12.5% is meant to be used for discretionary purchases or put towards savings. Any small purchase or house purchase which causes the house to exceed our monthly discretionary fund budget requires a 2/3 vote of quorum.
 
-At the last meeting of every month the treasurer should give a detailed account of spending for the month as well as let the house know what the discretionary funds budge for the next month will be.
+At the last meeting of every month the Treasurer should give a detailed account of spending for the month as well as let the house know what the discretionary funds budge for the next month will be.
 
 ### Small Purchases
 If a house member would like to make a small purchase for the betterment of the house, they need two officers to approve said purchase, one of which must be the Treasurer.
@@ -333,10 +333,10 @@ If an Officer has not adhered to their responsibilities, they may be impeached a
 
 ## INTERIM
 
-The trustee must plan to have the period when interim will start mapped out at the second to last house meeting of a semester. It can then be voted on, and interim officers can be elected at the final meeting. Interim will then last until contracts end.
+The Trustee must plan to have the period when interim will start mapped out at the second to last house meeting of a semester. It can then be voted on, and interim officers can be elected at the final meeting. Interim will then last until contracts end.
 
 ### Interim Officers
-Officers elected for Interim should be members which are going to spend a large amount of time at the hosue during the period. There are three officer positions required to be filled, but others may be added at house discretion. The positions are as follows: Trustee/Membership (3), Labor Czar (3), Kitchen Manager/Treasurer (3)
+Officers elected for Interim should be members which are going to spend a large amount of time at the house during the period. There are three officer positions required to be filled, but others may be added at house discretion. The positions are as follows: Trustee/Membership (3), Labor Czar (3), Kitchen Manager/Treasurer (3)
 
 ### Interim Labor
 Labor is at the discretion of Interim Labor Czar. If you are not going to be at the house for a period during interim, it is your responsibility to let the Labor Czar know in advance so that the very fluid labor schedule during interim can remain uninterrupted. The warning and fine system set during the semester preceding interim will be used as the template for this time period.
@@ -375,7 +375,7 @@ Labor Czar is responsible for organizing the labor of the House, including assig
 7. Alert the Trustee if a member has too many violations and must have a conflict mediation or member review.
 8. Have labor assignments clearly marked on a printed sheet somewhere in the house.
 9. Alert a member of the house if their labor needs additional work.
-10. Use common sense and your best judgment. Sometimes things don't happen, try and accomodate members who need leeway, the warnings and fine system are meant for discretion.
+10. Use common sense and your best judgment. Sometimes things don't happen, try and accommodate members who need leeway, the warnings and fine system are meant for discretion.
 
 ### Kitchen Manager (3 Hours)
 Kitchen Manager is responsible for the food of the house, dictating the recipe schedule for the cooks, making shopping lists, ensuring the kitchen and food is sanitary, and that meals are nutritious.
@@ -431,7 +431,7 @@ Maintenance is responsible for making sure the house is running smoothly. This i
 3. When necessary, be available to let contractors into the house or to explain the problems we are having. If you are /unavailable, be sure that the exact problem a contractor is there to address is known to members of the house who can direct them accordingly. Do not pawn off your labor.
 4. Update the door code when requested by the house.
 5. Keep an inventory of house tools that are accessible to all housemates and keep them organized.
-6. If trash, matresses, box springs, etc. become a problem anywhere from the curb to the back alley, the Maintenance Officer should remove them as soon as possible.
+6. If trash, mattresses, box springs, etc. become a problem anywhere from the curb to the back alley, the Maintenance Officer should remove them as soon as possible.
 7. Make house members aware of fire and other safety hazards and maintain the safety of the house.
 8. Fine members who endanger themselves or the house according to the house policies.
 
@@ -471,7 +471,7 @@ House Historian is in charge of keeping both a photographic and historical recor
     - Aim to make 24 servings of your meal.
     - Meals must be finished by 7:30 or you will receive a labor warning.
 - Alert the rest of the house that dinner is ready by ringing the bell with gusto.
-- Be conscientious when cooking and do not leave large quantities of dishes or disatrous messes for Kitchen Clean (KC).
+- Be conscientious when cooking and do not leave large quantities of dishes or disastrous messes for Kitchen Clean (KC).
     - Put all used dishes into the large sink before ringing the dinner bell.
 - Prepare individual save plates for everyone who signs their initials on the board and put plates in cook's fridge with their initials AND date of the meal BEFORE you ring the dinner bell.
 
@@ -532,11 +532,11 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
     - This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
 ### Garden Gnome (1 Hour)
-Under the direction of the Gnome Lord, you will be doing tasks such as stated below: 
+Under the direction of the Gnome Lord, you will be doing tasks such as stated below:
 - Use sustainable techniques and native plants to ensure the need of minimal care and a long lasting garden.
 - Weed beds, water plants and take necessary (non-toxic/organic) action to keep bugs off veggies and herbs.
     - If there are no plants or they have died, it is your job to plant new things and make the garden look nice.
-- Water yeard so that we can have soft things to walk on or replace dead grass.
+- Water yard so that we can have soft things to walk on or replace dead grass.
 - Take care of all aspects of composting if applicable.
 - Pick up any trash or bottles/cans left in the front yard and recycle or throw them away.
 - Sweep sidewalks and rake and gather leaves/sticks in walking areas.
@@ -582,14 +582,14 @@ Porch/Laundry Clean must be finished and signed-off for by midnight at the end o
 
 This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
 
-### Trash / Recycling (1 Hour)
+### Trash/Recycling (1 Hour)
 - Arrange containers so that they are easily available to all housemates.
 - Trash comes every Friday morning. Bring bins to back door after trash has been collected.
 - Empty inside recycling bins, large item recycling bin and newspaper stack into rolling bins every Wednesday or more frequently if necessary.
 - Hose out and clean inside recycling bins so that they do not stink and attract roaches.
 - Make sure rolling bins are available to be picked up on city-assigned recycling day.
     - (Call 311 same day if they miss our bins)
-    - If you miss pick-up, take care of recycling yourself. Ecology Austin is open from 9-5 every day except major holidays and is located at 9thand I-35.
+    - If you miss pick-up, take care of recycling yourself. Ecology Austin is open from 9-5 every day except major holidays and is located at 9th and I-35.
 - Bring rolling bins in on the same day that they are emptied by the city.
 - All recyclables must be rinsed out before thrown into the bins. It is your job to enforce this and fuss at housemates at meetings for not doing so. Recycling plants do not clean what they receive and therefore throw anything away that is dirty. Clean recycling also keeps roaches and stinking bins at bay. Remove bottle caps from plastic bottles as they are not recycled.
 - Keep back alley clean. The city can fine us for having a mess back there.
@@ -634,10 +634,10 @@ Personal Fridge
 - Unmarked items will be placed in the guff fridge.
 - Never throw away new food. Staple items will not be thrown out until after their expiration dates. Food in the freezer becomes guff if the date is from a previous semester.
 - Restaurant leftovers and save plates should be tossed 1 week after the labeled date. It is a members responsibility to re-date items. Save plates will have a 24 hour grace period for the member to clean them before being assessed a personal mess fine.
-- If FC is still unsure whether or not to throw something away, they must first ask the person who owns the food and the Labor Czar second if the owner is not available.
+- If the fridge cleaner is still unsure whether or not to throw something away, they must first ask the person who owns the food and the Labor Czar second if the owner is not available.
 
 Guff Fridge
-- Organize or throw away rotten or old food on shelves and in bins. (pay attention to bin and shelf labels, and clean the insides of bins/ organize contents)
+- Organize or throw away rotten or old food on shelves and in bins. (pay attention to bin and shelf labels, and clean the insides of bins/organize contents)
 - Consolidate when possible and move leftovers to size appropriate containers.
 - Wash and sanitize any/all containers and dishes that you empty.
     - Wipe down the front doors and insides of fridge with non-toxic cleaner.
