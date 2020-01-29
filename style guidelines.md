@@ -10,7 +10,7 @@ This guide is meant to maintain some consistency in the house manual as it is ma
 - *Italicize* to emphasize. Don't write in all caps.
 - "cooperative" not "co-operative"
 - The following words/phrases should be capitalized:
-    - "French House"
+    - "French House" and specific rooms of the house (e.g., Fridge Room)
     - the title of any officer when used to refer to a person (e.g., the Treasurer or the Trustee)
     - the name of any labor when used to refer to a person (e.g., the Fridge Clean)
     - "Member Orientation" and "House Meeting"

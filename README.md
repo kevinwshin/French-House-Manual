@@ -353,322 +353,318 @@ The interim house process is the same as the semester house process. Prospective
 ## OFFICER ROLES
 
 ### Trustee (3 hours)
-Trustee is responsible for running the house, must have a working knowledge of both ICC and French House rules, and ensure that the members of the house are properly informed as well. In addition, the Trustee must adhere to the following requirements:
+The Trustee is responsible for running the house, must have a working knowledge of both ICC and French House rules, and ensure that the members of the house are properly informed as well. In addition, the Trustee must:
 
-1. Attend all officer trainings/orientations
-2. Run the New Member Orientation at the start of each semester.
-3. Call and run a House Meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems & concerns.
-4. Act as a mediator in conflict resolutions between members.
-5. Coordinate elections of the French House elected positions - it is the responsibility of the Trustee to ensure all positions remain filled and fill-in positions in the event it is necessary.
-6. Monitor other French House officers' job performances. It is the responsibility of the Trustee to bring up any issues regarding officers at meetings.
-7. Update the House Manual of any changes.
-8. Ensure the House Code is frequently changed.
-9. Inform ICC staff of any house problems that may require attention.
-10. Inform ICC staff of new officers at the start of each semester.
-11. Uphold Part III, Section 9 of the ICC contract regarding prohibitions.
+1. attend all officer trainings/orientations.
+2. run the Member Orientation at the start of each semester.
+3. call and run a House Meeting every other Sunday, delivering an agenda by midnight on the Friday preceding a meeting. At the meeting the Trustee should give a house progress report and bring up potential problems and concerns.
+4. act as a mediator in conflict resolutions between members.
+5. coordinate elections of the French House elected positions - it is the responsibility of the Trustee to ensure all positions remain filled and fill-in positions in the event it is necessary.
+6. monitor other French House officers' job performances. It is the responsibility of the Trustee to bring up any issues regarding officers at meetings.
+7. update the House Manual with any changes.
+8. ensure the House Code is frequently changed.
+9. inform ICC staff of any house problems that may require attention.
+10. inform ICC staff of new officers at the start of each semester.
+11. uphold Part III, Section 9 of the ICC contract regarding prohibitions.
 
 ### Labor Czar (3 hours)
-Labor Czar is responsible for organizing the labor of the House, including assigning labor, makeup labor, and warnings and fines for missing it.
+The Labor Czar is responsible for organizing the labor of the house, including assigning labor, makeup labor, and warnings and fines for missing it. The Labor Czar must:
 
-1. Attend all officer trainings/orientations.
-2. Assist in the New Member Orientation at the start of each semester.
-3. Deliver a weekly report
-4. Assign labor no later than one week after each session's first meeting. Additionally, ask for every member's labor preference to help you assign labor.
-5. Facilitate labor assignment changes as needed.
-6. Alert the Treasurer of members who owe fines.
-7. Alert the Trustee if a member has too many violations and must have a conflict mediation or member review.
-8. Have labor assignments clearly marked on a printed sheet somewhere in the house.
-9. Alert a member of the house if their labor needs additional work.
-10. Use common sense and your best judgment. Sometimes things don't happen, try and accommodate members who need leeway, the warnings and fine system are meant for discretion.
+1. attend all officer trainings/orientations.
+2. assist in the Member Orientation at the start of each semester.
+3. deliver a weekly report.
+4. assign labor no later than one week after each session's first meeting. Additionally, ask for every member's labor preferences to help assign labor.
+5. facilitate labor assignment changes as needed.
+6. alert the Treasurer of members who owe fines.
+7. alert the Trustee if a member has too many violations and must have a conflict mediation or member review.
+8. have labor assignments clearly marked on a printed sheet somewhere in the house.
+9. alert a member of the house if their labor needs additional work.
+10. use common sense and best judgment. Sometimes things don't happen. Try and accommodate members who need leeway, the warnings and fine system are meant for discretion.
 
 ### Kitchen Manager (3 hours)
-Kitchen Manager is responsible for the food of the house, dictating the recipe schedule for the cooks, making shopping lists, ensuring the kitchen and food is sanitary, and that meals are nutritious.
+The Kitchen Manager is responsible for the food of the house, dictating the recipe schedule for the cooks, making shopping lists, ensuring the kitchen and food is sanitary, and ensuring meals are nutritious. The Kitchen Manager must:
 
-1. Attend all officer trainings/orientations.
-2. Make shopping lists based on stapes needed (edible and inedible,) recipes, and house requests while staying on budget. Ensure the shopping list is easy to follow in the store.
-3. Either assign recipes for the cooks or request a recipe from each cook, keeping in mind that recipes MUST be nutritious.
-4. Ensure food is being placed in the appropriately marked areas for cooks as well as guff food.
-5. Ensure all Health Department regulations are being followed.
+1. attend all officer trainings/orientations.
+2. make shopping lists based on staples needed (edible and inedible), recipes, and house requests while staying on budget. Ensure the shopping list is easy to follow in the store.
+3. either assign recipes for the cooks or request a recipe from each cook, keeping in mind that recipes *must* be nutritious.
+4. ensure food is being placed in the appropriately marked areas for cooks or guff use.
+5. ensure all Health Department regulations are being followed.
 
 ### Membership Coordinator (1 hour)
-Membership must ensure all emails from prospective new members are answered quickly, and coordinate with them to help complete their house process, whether it be through a video-call interview or in-person interview.
+The Membership Coordinator must ensure all communications from prospective new members are answered quickly and coordinate with them to help complete their house process, whether it be through a video-call interview or in-person interview. The Membership Coordinator must:
 
-1. Attend all officer trainings/orientations.
-2. Take meeting minutes and post them on the French House Facebook group as well as emailing them to the member list, so that all members can clearly see them.
-3. Keep track of attendance during the meetings and alert the Trustee if anyone is in danger of missing too many meetings.
-4. Coordinate with cooks to alert them if they'll have a new member cook with them.
-5. Welcome new members that are moving in. Be a resource to all new members during the move-in period. provide each member with the house manual and ensure they read it.
-6. Keep all keys in the house key box up to date (there should be 2 keys for each single, and 1 extra for each double.)
-7. Change the combination of the key box at the start of each semester: only Membership, the Trustee and Maintenance should know the code.
-8. Keep all house members informed of important contract signing and termination dates.
-9. Organize the house's mail and place it in the member mailboxes.
-10. Ensure all house members are aware of ICC membership policies.
-11. Ensure new members attend ICC orientations, meetings and the New Member Orientation.
-12. Inform house members of ICC events.
+1. attend all officer trainings/orientations.
+2. take meeting minutes and post them on the French House Facebook group as well as email them to the member list, so that all members can clearly see them.
+3. keep track of attendance during the meetings and alert the Trustee if anyone is in danger of missing too many meetings.
+4. coordinate with cooks to alert them if they'll have a new member cook with them.
+5. welcome new members that are moving in. Be a resource to all new members during the move-in period. Provide each member with the house manual and ensure they read it.
+6. keep all keys in the house key box up to date (there should be 2 keys for each single, and 1 extra for each double).
+7. change the combination of the key box at the start of each semester: only the Membership Coordinator, the Trustee, and the Maintenance Officer should know the code.
+8. keep all house members informed of important contract signing and termination dates.
+9. organize the house's mail and place it in the member mailboxes.
+10. ensure all house members are aware of ICC membership policies.
+11. ensure new members attend ICC orientations, meetings, and the New Member Orientation.
+12. inform house members of ICC events.
 
 ### Treasurer (2 hours)
-Treasurer is responsible for managing the budget of the house as well as writing checks and managing the receipts.
+The Treasurer is responsible for managing the budget of the house as well as writing checks and managing receipts. The Treasurer must:
 
-1. Be the voice of dissent on any and all purchases. People want to spend house funds, it is your job to remind them that there must be funds left over for future semesters. Be responsible.
-2. Attend all officer trainings/orientations
-3. Keep accurate and timely accounting records of French House Financing according to the ICC Treasurer's Manual: this includes balancing the checkbook, saving associated receipts, and recording and paying house bills as they arrive. Ensure that your own records are easy to follow and understand for future Treasurers and your own piece of mind.
-4. Manage semesterly and monthly cash flow and deliver an accurate report of it at House Meetings.
-5. Issue checks only when the house account has sufficient funds available. A bounced check is grounds for immediate removal from the position.
-6. Promptly pay all house bills and assessments at the office by the 5th of each month.
-7. Keep the house within a reasonable budget. Work with both Maintenance and Kitchen Manager to ensure we're not buying things we do not need.
-8. Enforce the house guest policy and collect payments from said guests.
+1. be the voice of dissent on any and all purchases. People want to spend house funds, it is your job to remind them that there must be funds left over for future semesters. Be responsible.
+2. attend all officer trainings/orientations.
+3. keep accurate and timely accounting records of French House financing according to the ICC Treasurer's Manual: this includes balancing the checkbook, saving associated receipts, and recording and paying house bills as they arrive. Ensure that your own records are easy to follow and understand for future treasurers and your own piece of mind.
+4. manage semesterly and monthly cash flow and deliver an accurate report of it at House Meetings.
+5. issue checks only when the house account has sufficient funds available. A bounced check is grounds for immediate removal from the position.
+6. promptly pay all house bills and assessments at the office by the 5th of each month.
+7. keep the house within a reasonable budget. Work with both the Maintenance Officer and Kitchen Manager to ensure we're not buying things we do not need.
+8. enforce the house guest policy and collect payments from said guests.
 
 ### Gnome Lord (2 hours)
-Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes with their weekly tasks in garden maintenance.
+The Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes with their weekly tasks in garden maintenance. The Gnome Lord must:
 
-1. Attend all officer trainings/orientations
-2. Organize and oversee the garden labor for Garden Gnomes, working in conjunction with the labor czar.
-3. Act as a Garden Gnome yourself - the position is not merely one of management but also of active contribution to the well-being of the garden.
-4. Gnome Lord is not given a budget buy may request (within reason) funds from the house in order to help create a more sustainable garden.
-        a. Gnome Lord has a budge of $200/semester. (Approved Spring 2016)
+1. attend all officer trainings/orientations.
+2. organize and oversee the garden labor for Garden Gnomes, working in conjunction with the labor czar.
+3. act as a Garden Gnome yourself - the position is not merely one of management but also of active contribution to the well-being of the garden.
+4. The Gnome Lord may request (within reason) funds from the house in order to help create a more sustainable garden.  
+        a. Gnome Lord has a budget of $200/semester. (Approved Spring 2016)
 
 ### Maintenance Officer (2 hours)
-Maintenance is responsible for making sure the house is running smoothly. This includes fixing equipment and items used by the commons and in the rooms of a house member. If a task is too large for Maintenance, they should refer it to the office.
+The Maintenance Officer is responsible for making sure the house is running smoothly. This includes fixing equipment and items used by the commons and in the rooms of a house member. If a task is too large for the Maintenance Officer, they should refer it to the office. The Maintenance Officer must:
 
-1. Attend all officer trainings/orientations.
-2. Manage the maintenance request whiteboard and ensure that member problems are heard.
-3. When necessary, be available to let contractors into the house or to explain the problems we are having. If you are /unavailable, be sure that the exact problem a contractor is there to address is known to members of the house who can direct them accordingly. Do not pawn off your labor.
-4. Update the door code when requested by the house.
-5. Keep an inventory of house tools that are accessible to all housemates and keep them organized.
-6. If trash, mattresses, box springs, etc. become a problem anywhere from the curb to the back alley, the Maintenance Officer should remove them as soon as possible.
-7. Make house members aware of fire and other safety hazards and maintain the safety of the house.
-8. Fine members who endanger themselves or the house according to the house policies.
+1. attend all officer trainings/orientations.
+2. manage the maintenance request whiteboard and ensure that member problems are heard.
+3. be available to let contractors into the house or to explain the problems we are having whenever necessary. If you are unavailable, be sure that the exact problem a contractor is there to address is known to members of the house who can direct them accordingly. Do not pawn off your labor.
+4. update the door code when requested by the house.
+5. keep an inventory of house tools that are accessible to all housemates and keep them organized.
+6. remove any problematic trash, mattresses, box springs, etc. anywhere from the curb to the back alley as soon as possible.
+7. make house members aware of fire and other safety hazards and maintain the safety of the house.
+8. fine members who endanger themselves or the house according to the house policies.
 
 ### Board Representative (3 hours)
-Board representative is meant to be an active presence at meetings, informing members of the house of upcoming ICC events and the happenings at board meetings.
+The Board Representative is meant to be an active presence at meetings, informing members of the house of upcoming ICC events and the happenings at board meetings. The Board Representative must:
 
-1. Attend all Board meetings, assigned committee meetings, officer training/orientations, and report ICC activities and decisions at all House Meetings. You represent the house and the ICC in corporate decision-making.
-2. Be well versed in all local, state and federal laws and ensure they are being upheld in French House. Work to avoid civil litigation.
-3. Have a working knowledge of ICC and French House rules and act as a resource for other officers and your housemates along with Trustee.
-4. With the help of the Trustee and the other officers of the house, provide leadership and direction in all French House activities.
-5. Remain aware of all operations of the house at all times.
-6. Assume the position of Trustee in the absence of the elected officer.
+1. attend all board meetings, assigned committee meetings, officer training/orientations, and report ICC activities and decisions at all House Meetings. You represent the house and ICC in corporate decision-making.
+2. be well versed in all local, state, and federal laws and ensure they are being upheld in French House. Work to avoid civil litigation.
+3. have a working knowledge of ICC and French House rules and act as a resource for other officers and your housemates along with the Trustee.
+4. provide leadership and direction in all French House activities with the help of the Trustee and other officers of the house.
+5. remain aware of all operations of the house at all times.
+6. assume the position of Trustee in the absence of the elected Trustee.
 
 ### Education (1 hour)
-Education is responsible for getting things done. If the semester is regarded as lame or boring, it is solely on the shoulders of Education.
+Education is responsible for getting things done. If the semester is regarded as lame or boring, it is solely on the shoulders of Education. Education must:
 
-1. Attend all officer trainings/orientations.
-2. Plan out and carry out at least one major educational event per semester.
-3. Organize and oversee all parties and events held by the house. Work with the Labor Czar or Party Proposer in order to ensure that Party Labor is adequately and promptly completed.
-4. Survey the house at the start of each semester and find out what types of events they will be interested in during the session - work to get these things done and scheduled quickly!
+1. attend all officer trainings/orientations.
+2. plan out and carry out at least one major educational event per semester.
+3. organize and oversee all parties and events held by the house. Work with the Labor Czar or the party proposer in order to ensure that the party labor is adequately and promptly completed.
+4. survey the house at the start of each semester and find out what types of events the house members will be interested in during the session - work to get these things done and scheduled quickly!
 5. Education has a budget of $50 per month for events. Anything in excess must be voted on at a House Meeting.
 
 ### Historian (1 hour)
-House Historian is in charge of keeping both a photographic and historical record of house events and the house at large.
+The Historian is in charge of keeping both a photographic and historical record of house events and the house at large. The Historian must:
 
-1. Attend all officer trainings/orientations
-2. Take minutes during the meetings and have a firm grasp of what has been agreed on during meetings in a given semester, and, preferably in semesters past.
-3. Make meeting minutes accessible to the entire house quickly, giving an electronic or physical reference copy to members.
-4. Manage the historicity of the given semester through photographing and otherwise documenting any and everything going on in the house. Get the photos developed (with house funds) and hang them around the house, not just on the fridge.
+1. attend all officer trainings/orientations.
+2. take minutes during the meetings and have a firm grasp of what has been agreed on during meetings in a given semester and, preferably, in semesters past.
+3. make meeting minutes accessible to the entire house quickly, giving an electronic or physical reference copy to members.
+4. manage the historicity of the given semester through photographing and otherwise documenting any and everything going on in the house. Get the photos developed (with house funds) and hang them around the house, not just on the fridge.
 
 ---
 
 ## LABOR DESCRIPTIONS
 
 ### Iron Chef (2 hours)
-- Cook healthy, well balanced, economical recipes into meals between 5 pm - 7 pm on your assigned day to cook.
+- Cook healthy, well balanced, economical recipes into meals between 5 - 7 PM on your assigned day to cook.
     - Aim to make 24 servings of your meal.
     - Meals must be finished by 7:30 or you will receive a labor warning.
 - Alert the rest of the house that dinner is ready by ringing the bell with gusto.
-- Be conscientious when cooking and do not leave large quantities of dishes or disastrous messes for Kitchen Clean (KC).
+- Be conscientious when cooking and do not leave large quantities of dishes or disastrous messes for Dinner Clean.
     - Put all used dishes into the large sink before ringing the dinner bell.
-- Prepare individual save plates for everyone who signs their initials on the board and put plates in cook's fridge with their initials AND date of the meal BEFORE you ring the dinner bell.
+- Prepare individual save plates for everyone who signs their initials on the board and put plates in cook's fridge with their initials *and* date of the meal *before* you ring the dinner bell.
 
 ### Guff Cook (2 hours)
 - Cook a main course dish for guff consumption that is large enough for every member of the house to have a decent-sized portion. (No desserts)
-    - Guff Cook will use guff ingredients for meals with any necessary guidance from KM. Small items may be purchased for guff meal at the discretion of KM.
+    - Guff Cook will use guff ingredients for meals with any necessary guidance from the Kitchen Manager. Small items may be purchased for the guff meal at the discretion of the Kitchen Manager.
     - Guff dish should be easy to reheat and able to keep for the week.
 - Guff dish should be cooked between noon Friday and midnight Saturday every week.
 - Guff cook shall clean all dishes used during the preparation of the guff meal.
 
-### Kitchen Clean (2 hours)
-- Label (with date) and put away all leftovers and food items immediately after dinner in the Cook's Fridge.
-    - If neither Kitchen Cleaners (KC) are able to make dinner, they must arrange ahead of time for someone else to put up food directly after dinner.
-- If food is left out after 8:30 pm, both KCs will receive a $5 fine.
-    - Please move leftovers into size appropriate containers and DO NOT leave leftovers in bowls/pans/pots/etc. that can be used for preparing and cooking dinner. NEVER leave a serving utensil in the fridge.
+### Dinner Clean (2 hours)
+- Label (with date) and put away all leftovers and food items immediately after dinner in the Cooks' Fridge.
+    - If neither Dinner Cleaner is able to make dinner, they must arrange ahead of time for someone else to put up food directly after dinner.
+- If food is left out after 8:30 PM, both Dinner Cleaners will receive a $5 fine.
+    - Please move leftovers into size-appropriate containers and *do not* leave leftovers in bowls/pans/pots/etc. that can be used for preparing and cooking dinner. *Never* leave a serving utensil in the fridge.
     - Put away any spices or condiments left on counters/table.
-- Clean and sanitize all dishes left in the kitchen and at the dining room/picnic table/smoker's bench (places where people eat) and put them away.
-- Unless it has been made recently, dump out old coffee and clean French press.
-Using non-toxic cleaner, clean the inside of the sinks and then clean all sponges so that they do not reek.
-- Surfaces
-    - Using non-toxic cleaner clean the wooden counter tops.
-    - Using non-toxic cleaner clean the counters around the sinks, ledge by guff food, microwave table and the table used for eating.
-- Appliances
-    - Using non-toxic cleaner wipe down stovetop, microwave, toaster, toaster oven, mixer, espresso machine, blender, food processor or any other appliance left on the counter.
-    - Erase save plate box and initials on white board and replace with new box and day.
-    - Sweep and mop the kitchen floor
-    - Take out the garbage and put in a fresh bag.
-- Daily Tasks
-    - Sunday - Stove: Thoroughly clean stainless steel with non-toxic cleaner, empty grease trap, reline food drop trays and organize pots, pans and lids
-    - Monday - Appliances: Using non-toxic cleaner thoroughly clean the microwave, toaster oven, toaster and any other appliances used throughout the week that needs attention, Wipe Down wall behind trash can
-    - Tuesday - Guff Shelves: Organize, refill and wipe down guff, personal, baking, and cook's food shelves; write on the board if something has run out and wipe down wall behind trash can
-    - Wednesday - Fridge Room: Organize shelf, mop and sweep
-    - Thursday - Bulk Shelves: Organize neatly and refill bulk containers under wooden counters, wipe off lids and shelves, organize oils, clean out potato and onion bins; write on the board if something has run out
-- Finish Kitchen Clean by 10:00 pm on your assigned day, sign-off and check off your appropriate day labor. You are not finished until all dishes, pans, silverware are put away (putting pots on the stove does not count as "away") and the Jackson is empty.
-
-### Lunch Clean (1 hour)
-- Sunday -- Thursday Lunch Cleans: You have until 5:00 pm to complete this task.
-- Friday -- Saturday Lunch Cleans: You have until 10:00 pm to complete this task.
-- Clean and Jackson all dishes left in the kitchen and on the dining room/picnic table and put them away.
-- Unless it has been made recently, dump out old coffee and clean French press.
-- Using non-toxic cleaner, clean the inside of the sinks and wash all sponges used so that they do not reek. Make sure there is no dirty spots on the sinks, they should be pretty and shiny silver.
-- Put away any foods/spices/condiments left on counters in a neat fashion.
+- Clean and sanitize all dishes left in the kitchen and at the dining room/picnic table/smokers' bench (places where people eat) and put them away.
+- Unless it has been made recently, dump out old coffee and cleant the French press.
+Using non-toxic cleaner, clean the inside of the sinks and then clean all the sponges so that they do not reek.
 - Surfaces
     - Using non-toxic cleaner, clean the wooden counter tops.
-    - Using non-toxic cleaner, clean the counters around sinks, ledge under guff food and microwave table.
+    - Using non-toxic cleaner, clean the counters around the sinks, the ledge by guff food, the microwave table, and the table used for eating.
 - Appliances
-    - Using non-toxic cleaner, wipe down stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor or any other appliance left on the counter.
+    - Using non-toxic cleaner, wipe down the stovetop, microwave, toaster, toaster oven, mixer, espresso machine, blender, food processor, and any other appliances left on the counter.
+    - Erase save plate box and initials on white board and replace with a new box and day.
+    - Sweep and mop the kitchen floor.
+    - Take out the garbage and put in a fresh bag.
+- Daily Tasks
+    - Sunday - Stove: Thoroughly clean stainless steel with non-toxic cleaner, empty the grease trap, reline food drop trays, and organize pots, pans, and lids
+    - Monday - Appliances: Using non-toxic cleaner, thoroughly clean the microwave, toaster oven, toaster, and any other appliances used throughout the week that needs attention, Wipe down the wall behind the trash can.
+    - Tuesday - Guff Shelves: Organize, refill, and wipe down guff, personal, baking, and cooks' food shelves; write on the board if something has run out and wipe down the wall behind the trash can.
+    - Wednesday - Fridge Room: Organize the shelf and mop and sweep the fridge room.
+    - Thursday - Bulk Shelves: Neatly organize and refill bulk containers under the wooden counters, wipe off the lids and shelves, organize the oil bottles, clean out the potato and onion bins; write on the board if something has run out
+- Finish Kitchen Clean by 10 PM on your assigned day, sign-off and check off your appropriate day labor. You are not finished until all dishes, pans, and silverware are put away (putting pots on the stove does not count as "away") and the Jackson is empty.
+
+### Lunch Clean (1 hour)
+- Sunday - Thursday Lunch Cleans: You have until 5 PM to complete this task.
+- Friday - Saturday Lunch Cleans: You have until 10 PM to complete this task.
+- Clean and Jackson all dishes left in the kitchen and on the dining room/picnic table and put them away.
+- Unless it has been made recently, dump out old coffee and clean the French press.
+- Using non-toxic cleaner, clean the inside of the sinks and wash all the sponges used so that they do not reek. Make sure there are no dirty spots on the sinks, they should be pretty and shiny silver.
+- Neatly put away any foods/spices/condiments left on counters.
+- Surfaces
+    - Using non-toxic cleaner, clean the wooden counter tops.
+    - Using non-toxic cleaner, clean the counters around the sinks, the ledge under guff food and the microwave table.
+- Appliances
+    - Using non-toxic cleaner, wipe down the stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor, and any other appliances left on the counter.
 - Other
     - Sweep the kitchen floor.
-    - If garbage is 3/4 full: Take out the garbage and put in a fresh bag. If you are Friday or Saturday Lunch Clean taking out the trash is mandatory!
+    - If garbage is 3/4 full: take out the garbage, and put in a fresh bag. If you are Friday or Saturday Lunch Clean, taking out the trash is mandatory!
 
 ### Bathroom Clean (Upstairs/Downstairs) (1 hour)
-- Using non-toxic cleaner, scrub shower, toilet, sink, counters/surfaces and soap dishes.
-- Using non-toxic cleaner, clean mirrors and glass doors.
-- Remove stains, hair, and scum build-up on all surfaces and empty and clean strainers in sink and shower.
+- Using non-toxic cleaner, scrub the shower, toilet, sink, counters/surfaces, and soap dishes.
+- Using non-toxic cleaner, clean the mirrors and glass doors.
+- Remove stains, hair, and scum build-up on all surfaces and empty and clean strainers in the sink and shower.
 - Sweep and mop the bathroom.
 - Bathroom Clean must be finished and signed-off for by midnight at the end of your assigned half of the week.
-    - This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
+    - This job spans multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy them up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
 ### Garden Gnome (1 hour)
-Under the direction of the Gnome Lord, you will be doing tasks such as stated below:
-- Use sustainable techniques and native plants to ensure the need of minimal care and a long lasting garden.
-- Weed beds, water plants and take necessary (non-toxic/organic) action to keep bugs off veggies and herbs.
+Under the direction of the Gnome Lord, you will be doing tasks such as:
+- Use sustainable techniques and native plants to ensure the minimal need for care and a long lasting garden.
+- Weed beds, water plants, and take necessary (non-toxic/organic) action to keep bugs off veggies and herbs.
     - If there are no plants or they have died, it is your job to plant new things and make the garden look nice.
-- Water yard so that we can have soft things to walk on or replace dead grass.
+- Water the yard so that we can have soft things to walk on or replace dead grass.
 - Take care of all aspects of composting if applicable.
 - Pick up any trash or bottles/cans left in the front yard and recycle or throw them away.
 - Sweep sidewalks and rake and gather leaves/sticks in walking areas.
-- You may be assigned tasks by the Gnome Lord that do not fit the descriptions above, that's perfectly fine! Your garden labor will be checked by the Gnome Lord and reported complete to the Labor Czar when it is done.
+- You may be assigned tasks by the Gnome Lord that do not fit the descriptions above, and that's perfectly fine! Your garden labor will be checked by the Gnome Lord and reported complete to the Labor Czar when it is done.
 
 ### Commons Clean (Upstairs & Downstairs) (1 hour)
 - Gather all dishes/cups/silverware, wash and Jackson them, and put them away.
-- Using non-toxic cleaner, clean all tables (dining room and coffee tables) and wipe down shelves.
+- Using non-toxic cleaner, clean all tables (dining room and coffee tables) and wipe down the shelves.
     - This also means returning all materials left on tables and floor to their rightful shelves or owners.
-- Move all newspapers more than 1 week old to recycling bin in Fridge room.
+- Move all newspapers more than one week old to the recycling bin.
 - Remove and put away all random items left lying around.
 - Throw away or recycle (after washing them out!) bottles/cans or trash people rudely left in the common spaces.
 - Organize sofas and chairs so that the room looks nice.
 - Take out the trash and replace the trash bag.
-- Sweep and mop, THIS INCLUDES UPSTAIRS hallway and just sweeping the stairs.
-    - Mopping only needs to be done once a week. Coordinate a system with the Labor Czar and other Commons Cleaner as soon as you are assigned this labor at the beginning of a semester to ensure labor is split evenly.
+- Sweep and mop, *this includes the upstairs* hallway and just sweeping the stairs.
+    - Mopping only needs to be done once a week. Coordinate a system with the Labor Czar and the other Commons Cleaner as soon as you are assigned this labor at the beginning of a semester to ensure the labor is split evenly.
 - Commons Clean must be finished and signed-off for by midnight at the end of your assigned half of the week.
-- This jobs spans for half of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
+    - This job spans multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy them up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
 ### Mail (Membership)
 - Bring in and sort mail into personal boxes.
-- Newspapers should be brought in, taken out of the bag and left on the dining room table.
+- Newspapers should be brought in, taken out of the bag, and left on the dining room table.
 - Forward former members' mail
-    - Any house member who has moved out the previous semester will have their mail forwarded to them at the end of every month for the duration of the following semester. Collect this in appropriate container on side of mailboxes.
-- Mail and any newspapers should be brought in before noon every day. You must sign-off for forwarding mail before the last day of every month.
+    - Any house member who has moved out the previous semester will have their mail forwarded to them at the end of every month for the duration of the following semester. Collect this in an appropriate container by the mailboxes.
+- All mail and any newspapers should be brought in before noon every day. You must sign-off for forwarding mail before the last day of every month.
 
 ### Porch/Laundry Clean (1 hour)
 Porch
-- Clean off and wipe down picnic table: recycle newspapers and bottles/cans, throw out trash, clean and Jackson any dishes left out, and empty ashtrays.
+- Clean off and wipe down the picnic tables: recycle newspapers and bottles/cans, throw out trash, clean and Jackson any dishes left out, and empty ashtrays.
 - Sweep porch and stairs. Only mop if it is particularly dirty/muddy. You can always spray it down with the hose.
-- Pick up cigarette butts and trash around smokers bench and recycle any bottles or cans.
+- Pick up cigarette butts and trash around the smokers' bench and recycle any bottles or cans.
 
 Laundry Room
-- Organize and wipe down laundry supply shelf.
-- Wipe down washer and dryer including door gaps, crevices and detergent areas.
-- Empty filter at bottom of washing machine and check and clean dryer filter.
+- Organize and wipe down the laundry supply shelf.
+- Wipe down washer and dryer including door gaps, crevices, and detergent areas.
+- Empty the filter at the bottom of the washing machine and check and clean the dryer filter.
 - Write on the board if liquid/dry laundry detergent or dryer sheets are low.
 - Sweep and take out the trash.
-- Wash and dry kitchen towels
-- Clean mop heads weekly in the washing machine. You MUST use the delicate cycle and put rubber bands around the strings so they do not tangle.
-
-Porch/Laundry Clean must be finished and signed-off for by midnight at the end of your assigned part of the week.
-
-This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
+- Wash and dry the kitchen towels
+- Clean mop heads weekly in the washing machine. You *must* use the delicate cycle and put rubber bands around the strings so they do not tangle.
+- Porch/Laundry Clean must be finished and signed-off for by midnight at the end of your assigned part of the week.
+    - This job spans multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy them up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
 ### Trash/Recycling (1 hour)
 - Arrange containers so that they are easily available to all housemates.
-- Trash comes every Friday morning. Bring bins to back door after trash has been collected.
-- Empty inside recycling bins, large item recycling bin and newspaper stack into rolling bins every Wednesday or more frequently if necessary.
-- Hose out and clean inside recycling bins so that they do not stink and attract roaches.
-- Make sure rolling bins are available to be picked up on city-assigned recycling day.
-    - (Call 311 same day if they miss our bins)
+- Trash pickup comes every Friday morning. Bring the bins to back door after the trash has been collected.
+- Empty the inside recycling bins, large item recycling bin, and newspaper stack into rolling bins every Wednesday or more frequently if necessary.
+- Hose out and clean the inside recycling bins so that they do not stink and attract roaches.
+- Make sure the rolling bins are available to be picked up on city-assigned recycling day.
+    - Call 311 the same day if they miss our bins.
     - If you miss pick-up, take care of recycling yourself. Ecology Austin is open from 9-5 every day except major holidays and is located at 9th and I-35.
 - Bring rolling bins in on the same day that they are emptied by the city.
-- All recyclables must be rinsed out before thrown into the bins. It is your job to enforce this and fuss at housemates at meetings for not doing so. Recycling plants do not clean what they receive and therefore throw anything away that is dirty. Clean recycling also keeps roaches and stinking bins at bay. Remove bottle caps from plastic bottles as they are not recycled.
-- Keep back alley clean. The city can fine us for having a mess back there.
+- All recyclables must be rinsed out before being thrown into the bins. It is your job to enforce this and fuss at housemates at meetings for not doing so. Recycling plants do not clean what they receive and therefore throw anything away that is dirty. Clean recycling also keeps roaches and stinking bins at bay. Remove bottle caps from plastic bottles as they are not recycled.
+- Keep the back alley clean. The city can fine us for having a mess back there.
 - Recycling must be finished and signed-off for every Wednesday by midnight.
-
-This jobs spans for the entire week. This means that you should look after recycling every day. If the Labor Czar finds bins to be too full, you will be asked to take them out. This must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
+    - This job spans for the entire week. This means that you should look after the trash and recycling every day. If the Labor Czar finds bins to be too full, you will be asked to theke them out. This must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
 ### Cookie Monster (2 hours)
 - Create a delicious baked item for everyone in the house to delight and drool over.
-    - Aim to use guff ingredients, but the occasional, cheap item can be added to a shop at the discretion of KM.
+    - Aim to use guff ingredients, but the occasional cheap item can be added to a shop at the discretion of the Kitchen Manager.
     - Cookie Monster does not mean only baking cookies. Strive for variety and get creative.
-- Cookie Monster shall clean all dishes used during the preparation of the delicious treat.
-- Baked treat should be finished within the amount of days given for the labor.
+- The Cookie Monster shall clean all dishes used during the preparation of the delicious treat.
+- The baked treat should be finished within the amount of days given for the labor.
 
 ### HEB/Costco Shop (2 hours)
-- Get shopping list from Kitchen Manager, a check from Treasurer and supermarket membership card, if necessary.
-- Take and use reusable grocery bags from Fridge Room.
-- Follow list and try to buy cheapest items.
-- On the receipt, circle the date, total cost and shopper's initials at the top of the receipt. Also let KM know how much the shop cost.
-- Put all food in appropriate places. Bulk should be placed on appropriate storage shelf and a small amount put of guff shelves.
-    - Label and put food marked for meals in a reusable bag either in the cook's fridge or on the cook's shelf. Certain items should not go in the fridge, so shoppers should ask if they aren't sure.
+- Get the shopping list from the Kitchen Manager, a check from the Treasurer, and the supermarket membership card, if necessary.
+- Take and use reusable grocery bags from the Fridge Room.
+- Follow the list and try to buy the cheapest items.
+- On the receipt, circle the date, total cost, and shopper's initials at the top of the receipt. Also let the Kitchen Manager know how much the shop cost.
+- Put all food in their appropriate places. Bulk items should be placed on the appropriate storage shelf and a small amount put on guff shelves.
+    - Label and put food marked for meals in a reusable bag either in the cooks' fridge or on the cooks' shelf. Certain items should not go in the fridge, so shoppers should ask if they aren't sure.
     - Anything frozen bought for dinners should be put in the fridge so that it will be thawed by the day it will be used. If it is to be used within the 3-4 days between shops, meat will not go bad.
-- Erase all items off of the list on the whiteboard that you were able to buy and circle or write items you were not able to find.
-- Complete shop by 4PM on Sundays and Wednesdays. This ensures food is available to cooks when they start cooking.
+- Erase all items off of the list on the whiteboard that you were able to buy, and circle or write items you were not able to find.
+- Complete shop by 4 PM on Sundays and Wednesdays. This ensures food is available to cooks when they start cooking.
 
 ### Fridge Clean (1 hour)
-- Alert house by writing a note on the whiteboard when we have an excess of any one food or item that needs to be eaten (examples: "LOTS of leftovers in Cook's Fridge!" or "Zucchini has been in the guff fridge all week. Eat them!")
-    - Write on the board when we run out of any staple item.
+- Alert house by writing a note on the whiteboard when we have an excess of any one food or item that needs to be eaten (examples: "LOTS of leftovers in Cook's Fridge!" or "Zucchini has been in the guff fridge all week. Eat them!").
+- Write on the board when we run out of any staple item.
 
-Cook's Fridge
+Cooks' Fridge
 - Save plates in the fridge for more than 48 hours must be moved to the kitchen, with 24 hours being given to the owner of the save plate, after which time a $5 Personal Mess Fine can be assessed.
 - Consolidate when possible and move leftovers to size appropriate containers.
 - Throw away all rotten or old leftovers. Wash any/all containers and dishes that you empty.
-- Wipe down the front doors and insides of fridge with non-toxic cleaner.
+- Wipe down the front doors and insides of the fridge with non-toxic cleaner.
 
 Freezer
-- Organize, defrost and clean freezer. Meat should always go on the bottom, then fruits/veggies, etc. and bread on top. Note any staples that have run out on the board.
+- Organize, defrost, and clean the freezer. Meat should always go on the bottom, then fruits/veggies/etc., and bread on top. Note any staples that have run out on the board.
 
 Personal Fridge
-- Everything must be labeled with owner's initials and the date food was put in the fridge, with the exception of alcohol which should still be initialed.
-- Food stored in a large bag will be left alone if it is initialed and dated, but after 1 month it will be thrown away. It is the responsibility of the owner to re-date old items to prevent them from being thrown out.
+- Everything must be labeled with their owner's initials and the date the food was put in the fridge, with the exception of alcohol which should still be initialed.
+- Food stored in a large bag will be left alone if it is initialed and dated, but after one month it will be thrown away. It is the responsibility of the owner to re-date old items to prevent them from being thrown out.
 - Unmarked items will be placed in the guff fridge.
 - Never throw away new food. Staple items will not be thrown out until after their expiration dates. Food in the freezer becomes guff if the date is from a previous semester.
-- Restaurant leftovers and save plates should be tossed 1 week after the labeled date. It is a members responsibility to re-date items. Save plates will have a 24 hour grace period for the member to clean them before being assessed a personal mess fine.
-- If the fridge cleaner is still unsure whether or not to throw something away, they must first ask the person who owns the food and the Labor Czar second if the owner is not available.
+- Restaurant leftovers and save plates should be tossed one week after the labeled date. It is a member's responsibility to re-date items. Save plates will have a 24 hour grace period for the member to clean them before being assessed a personal mess fine.
+- If the Fridge Cleaner is still unsure whether or not to throw something away, they must first ask the person who owns the food and the Labor Czar second if the owner is not available.
 
 Guff Fridge
-- Organize or throw away rotten or old food on shelves and in bins. (pay attention to bin and shelf labels, and clean the insides of bins/organize contents)
-- Consolidate when possible and move leftovers to size appropriate containers.
+- Organize or throw away rotten or old food on shelves and in bins (pay attention to bin and shelf labels, and clean the insides of bins/organize contents)
+- Consolidate when possible, and move leftovers to size appropriate .containers.
 - Wash and sanitize any/all containers and dishes that you empty.
-    - Wipe down the front doors and insides of fridge with non-toxic cleaner.
-    - Trash or organize papers hanging from fridge.
+    - Wipe down the front doors and insides of the fridge with non-toxic cleaner.
+    - Trash or organize papers hanging from the fridge.
 
 Fridge Clean should be finished and signed-off for by midnight at the end of your assigned part of the week.
-
-This jobs spans for the entire week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
+    - This job spans multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy them up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
 ### Weekend Kitchen Fairy (1 hours)
 - Clean and Jackson all dishes left in the kitchen and on the dining room/picnic table and put them away.
-    - Unless it has been made recently, dump out old coffee and clean French press.
-    - Using non-toxic cleaner, clean the inside of the sinks and then wash all sponges used so that they do not reek.
+    - Unless it has been made recently, dump out old coffee and clean the French press.
+    - Using non-toxic cleaner, clean the inside of the sinks and then wash all the sponges used so that they do not reek.
 - Put away any foods/spices/condiments left on counters and consolidate or clean (if empty)
 the container or plate with Cookie Monster treats.
 
 Surfaces
 - Using non-toxic cleaner, clean the wooden counter tops.
-- Using non-toxic cleaner, clean the counters around sinks, ledge under guff food and microwave table.
+- Using non-toxic cleaner, clean the counters around the sinks, ledge under guff food, and microwave table.
 
 Appliances
-- Using non-toxic cleaner, wipe down stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor or any other appliance left on the counter.
+- Using non-toxic cleaner, wipe down the stovetop, microwave, toaster and toaster oven, espresso machine, blender, food processor, and any other appliances left on the counter.
 
 General
 - Sweep and mop the kitchen floor.
 - Take out the garbage and put in a fresh bag.
     - Make sure that you are using the correct sized bag and tie it off to keep it from falling into the can.
 
-- Finish Kitchen Fairy between 7pm and midnight on your assigned day and sign-off.
-    - You are not finished until all dishes, pans, silverware are put away (putting pots on the stove doesn't count as "away") and the Jackson
+- Finish Kitchen Fairy between 7 PM and midnight on your assigned day and sign-off.
+    - You are not finished until all dishes, pans, and silverware are put away (putting pots on the stove doesn't count as "away") and the Jackson is empty.
