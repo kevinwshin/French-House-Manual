@@ -79,32 +79,32 @@ Interim Labor
 Interim House Process  
 
 ### OFFICER ROLES
-Trustee (3 Hours)  
-Labor Czar (3 Hours)  
-Kitchen Manager (3 Hours)  
-Membership Coordinator (1 Hour)  
-Treasurer (2 Hours)  
-Maintenance Officer (2 Hours)  
-Board Representative (3 Hours)  
-Gnome Lord (2 Hours)  
-Education (1 Hour)  
-Historian (1 Hour)  
+Trustee (3 hours)  
+Labor Czar (3 hours)  
+Kitchen Manager (3 hours)  
+Membership Coordinator (1 hour)  
+Treasurer (2 hours)  
+Maintenance Officer (2 hours)  
+Board Representative (3 hours)  
+Gnome Lord (2 hours)  
+Education (1 hour)  
+Historian (1 hour)  
 
 ### LABOR DESCRIPTIONS
-Iron Chef (2 Hours)  
-Kitchen Clean (2 Hours)  
-Lunch Clean (1 Hour)  
-Garden Gnome (1 Hour)  
-Commons Clean (Upstairs & Downstairs) (1 Hour)  
-Bathroom Clean (Upstairs/Downstairs) (1 Hour)  
-Porch/Laundry Clean (1 Hour)  
-Trash/Recycling (1 Hour)  
-HEB/Costco Shop (2 Hours)  
-Fridge Clean (1 Hour)  
+Iron Chef (2 hours)  
+Kitchen Clean (2 hours)  
+Lunch Clean (1 hour)  
+Garden Gnome (1 hour)  
+Commons Clean (Upstairs & Downstairs) (1 hour)  
+Bathroom Clean (Upstairs/Downstairs) (1 hour)  
+Porch/Laundry Clean (1 hour)  
+Trash/Recycling (1 hour)  
+HEB/Costco Shop (2 hours)  
+Fridge Clean (1 hour)  
 Mail (Membership)  
-Guff Cook (2 Hours)  
-Cookie Monster (2 Hours)  
-Weekend Kitchen Fairy (1 Hours)  
+Guff Cook (2 hours)  
+Cookie Monster (2 hours)  
+Weekend Kitchen Fairy (1 hours)  
 
 ---
 
@@ -348,7 +348,7 @@ Interim house process is the same as the semester house process. Prospective new
 
 ## OFFICER ROLES
 
-### Trustee (3 Hours)
+### Trustee (3 hours)
 Trustee is responsible for running the house, must have a working knowledge of both ICC and French House rules, and ensure that the members of the house are properly informed as well. In addition, the Trustee must adhere to the following requirements:
 
 1. Attend all officer trainings/orientations
@@ -363,7 +363,7 @@ Trustee is responsible for running the house, must have a working knowledge of b
 10. Inform ICC staff of new officers at the start of each semester.
 11. Uphold Part III, Section 9 of the ICC contract regarding prohibitions.
 
-### Labor Czar (3 Hours)
+### Labor Czar (3 hours)
 Labor Czar is responsible for organizing the labor of the House, including assigning labor, makeup labor, and warnings and fines for missing it.
 
 1. Attend all officer trainings/orientations.
@@ -377,7 +377,7 @@ Labor Czar is responsible for organizing the labor of the House, including assig
 9. Alert a member of the house if their labor needs additional work.
 10. Use common sense and your best judgment. Sometimes things don't happen, try and accommodate members who need leeway, the warnings and fine system are meant for discretion.
 
-### Kitchen Manager (3 Hours)
+### Kitchen Manager (3 hours)
 Kitchen Manager is responsible for the food of the house, dictating the recipe schedule for the cooks, making shopping lists, ensuring the kitchen and food is sanitary, and that meals are nutritious.
 
 1. Attend all officer trainings/orientations.
@@ -386,7 +386,7 @@ Kitchen Manager is responsible for the food of the house, dictating the recipe s
 4. Ensure food is being placed in the appropriately marked areas for cooks as well as guff food.
 5. Ensure all Health Department regulations are being followed.
 
-### Membership Coordinator (1 Hour)
+### Membership Coordinator (1 hour)
 Membership must ensure all emails from prospective new members are answered quickly, and coordinate with them to help complete their house process, whether it be through a Skype interview or in-person interview.
 
 1. Attend all officer trainings/orientations.
@@ -402,7 +402,7 @@ Membership must ensure all emails from prospective new members are answered quic
 11. Ensure new members attend ICC orientations, meetings and the New Member Orientation.
 12. Inform house members of ICC events.
 
-### Treasurer (2 Hours)
+### Treasurer (2 hours)
 Treasurer is responsible for managing the budget of the house as well as writing checks and managing the receipts.
 
 1. Be the voice of dissent on any and all purchases. People want to spend house funds, it is your job to remind them that there must be funds left over for future semesters. Be responsible.
@@ -414,7 +414,7 @@ Treasurer is responsible for managing the budget of the house as well as writing
 7. Keep the house within a reasonable budget. Work with both Maintenance and Kitchen Manager to ensure we're not buying things we do not need.
 8. Enforce the house guest policy and collect payments from said guests.
 
-### Gnome Lord (2 Hours)
+### Gnome Lord (2 hours)
 Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes with their weekly tasks in garden maintenance.
 
 1. Attend all officer trainings/orientations
@@ -423,7 +423,7 @@ Gnome Lord is in charge of maintaining the garden and providing Garden Gnomes wi
 4. Gnome Lord is not given a budget buy may request (within reason) funds from the house in order to help create a more sustainable garden.
         a. Gnome Lord has a budge of $200/semester. (Approved Spring 2016)
 
-### Maintenance Officer (2 Hours)
+### Maintenance Officer (2 hours)
 Maintenance is responsible for making sure the house is running smoothly. This includes fixing equipment and items used by the commons and in the rooms of a house member. If a task is too large for Maintenance, they should refer it to the office.
 
 1. Attend all officer trainings/orientations.
@@ -435,7 +435,7 @@ Maintenance is responsible for making sure the house is running smoothly. This i
 7. Make house members aware of fire and other safety hazards and maintain the safety of the house.
 8. Fine members who endanger themselves or the house according to the house policies.
 
-### Board Representative (3 Hours)
+### Board Representative (3 hours)
 Board representative is meant to be an active presence at meetings, informing members of the house of upcoming ICC events and the happenings at board meetings.
 
 1. Attend all Board meetings, assigned committee meetings, officer training/orientations, and report ICC activities and decisions at all house meetings. You represent the house and the ICC in corporate decision-making.
@@ -445,7 +445,7 @@ Board representative is meant to be an active presence at meetings, informing me
 5. Remain aware of all operations of the house at all times.
 6. Assume the position of Trustee in the absence of the elected officer.
 
-### Education (1 Hour)
+### Education (1 hour)
 Education is responsible for getting things done. If the semester is regarded as lame or boring, it is solely on the shoulders of Education.
 
 1. Attend all officer trainings/orientations.
@@ -454,7 +454,7 @@ Education is responsible for getting things done. If the semester is regarded as
 4. Survey the house at the start of each semester and find out what types of events they will be interested in during the session - work to get these things done and scheduled quickly!
 5. Education has a budget of $50 per month for events. Anything in excess must be voted on at a house meeting.
 
-### Historian (1 Hour)
+### Historian (1 hour)
 House Historian is in charge of keeping both a photographic and historical record of house events and the house at large.
 
 1. Attend all officer trainings/orientations
@@ -507,7 +507,7 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
     - Thursday - Bulk Shelves: Organize neatly and refill bulk containers under wooden counters, wipe off lids and shelves, organize oils, clean out potato and onion bins; write on the board if something has run out
 - Finish Kitchen Clean by 10:00 pm on your assigned day, sign-off and check off your appropriate day labor. You are not finished until all dishes, pans, silverware are put away (putting pots on the stove does not count as "away") and the Jackson is empty.
 
-### Lunch Clean (1 Hour)
+### Lunch Clean (1 hour)
 - Sunday -- Thursday Lunch Cleans: You have until 5:00 pm to complete this task.
 - Friday -- Saturday Lunch Cleans: You have until 10:00 pm to complete this task.
 - Clean and Jackson all dishes left in the kitchen and on the dining room/picnic table and put them away.
@@ -531,7 +531,7 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all sponge
 - Bathroom Clean must be finished and signed-off for by midnight at the end of your assigned half of the week.
     - This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up. Extra tidying must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
-### Garden Gnome (1 Hour)
+### Garden Gnome (1 hour)
 Under the direction of the Gnome Lord, you will be doing tasks such as stated below:
 - Use sustainable techniques and native plants to ensure the need of minimal care and a long lasting garden.
 - Weed beds, water plants and take necessary (non-toxic/organic) action to keep bugs off veggies and herbs.
@@ -542,7 +542,7 @@ Under the direction of the Gnome Lord, you will be doing tasks such as stated be
 - Sweep sidewalks and rake and gather leaves/sticks in walking areas.
 - You may be assigned tasks by the Gnome Lord that do not fit the descriptions above, that's perfectly fine! Your garden labor will be checked by the Gnome Lord and reported complete to the Labor Czar when it is done.
 
-### Commons Clean (Upstairs & Downstairs) (1 Hour)
+### Commons Clean (Upstairs & Downstairs) (1 hour)
 - Gather all dishes/cups/silverware, wash and Jackson them, and put them away.
 - Using non-toxic cleaner, clean all tables (dining room and coffee tables) and wipe down shelves.
     - This also means returning all materials left on tables and floor to their rightful shelves or owners.
@@ -582,7 +582,7 @@ Porch/Laundry Clean must be finished and signed-off for by midnight at the end o
 
 This jobs spans for multiple days of the week. This means that you should look after these areas every day. If the Labor Czar finds them dirty, you will be asked to tidy up.
 
-### Trash/Recycling (1 Hour)
+### Trash/Recycling (1 hour)
 - Arrange containers so that they are easily available to all housemates.
 - Trash comes every Friday morning. Bring bins to back door after trash has been collected.
 - Empty inside recycling bins, large item recycling bin and newspaper stack into rolling bins every Wednesday or more frequently if necessary.
@@ -597,14 +597,14 @@ This jobs spans for multiple days of the week. This means that you should look a
 
 This jobs spans for the entire week. This means that you should look after recycling every day. If the Labor Czar finds bins to be too full, you will be asked to take them out. This must be finished by a time determined between you and the Labor Czar, which will often be the end of the day.
 
-### Cookie Monster (2 Hours)
+### Cookie Monster (2 hours)
 - Create a delicious baked item for everyone in the house to delight and drool over.
     - Aim to use guff ingredients, but the occasional, cheap item can be added to a shop at the discretion of KM.
     - Cookie Monster does not mean only baking cookies. Strive for variety and get creative.
 - Cookie Monster shall clean all dishes used during the preparation of the delicious treat.
 - Baked treat should be finished within the amount of days given for the labor.
 
-### HEB/Costco Shop (2 Hours)
+### HEB/Costco Shop (2 hours)
 - Get shopping list from Kitchen Manager, a check from Treasurer and supermarket membership card, if necessary.
 - Take and use reusable grocery bags from Fridge Room.
 - Follow list and try to buy cheapest items.
@@ -615,7 +615,7 @@ This jobs spans for the entire week. This means that you should look after recyc
 - Erase all items off of the list on the whiteboard that you were able to buy and circle or write items you were not able to find.
 - Complete shop by 4PM on Sundays and Wednesdays. This ensures food is available to cooks when they start cooking.
 
-### Fridge Clean (1 Hour)
+### Fridge Clean (1 hour)
 - Alert house by writing a note on the whiteboard when we have an excess of any one food or item that needs to be eaten (examples: "LOTS of leftovers in Cook's Fridge!" or "Zucchini has been in the guff fridge all week. Eat them!")
     - Write on the board when we run out of any staple item.
 
