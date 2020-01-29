@@ -6,11 +6,11 @@ This guide is meant to maintain some consistency in the house manual as it is ma
 - The house manual should use the Oxford comma in all cases.  
 - Numbers should be written out from zero to nine with numerals for larger values, as in *The Associated Press Stylebook*.  
 - Monetary values should exclude the cents when the amount of cents is zero  
-- Slash marks should be surrounded by spaces when used to indicate two different ideas but should be immediately surrounded by numerals when used for a fractional value.
+- Slash marks should not be surrounded by spaces.
 - *Italicize* to emphasize. Don't write in all caps.
 - "Cooperative" not "co-operative."
 - "Couch surfer" should not be capitalized unless occurring at the beginning of a sentence.
-- The following words / phrases should be capitalized:
+- The following words/phrases should be capitalized:
     - "French House"
     - the title of any officer when used to refer to a person (e.g., the Treasurer or the Trustee)
     - the name of any labor when used to refer to a person (e.g., the Fridge Clean)
