@@ -20,8 +20,8 @@ Members contribute equitably to – and democratically control — the capital o
 ### AUTONOMY AND INDEPENDENCE
 Cooperatives are autonomous, self-help organizations controlled by their members. If they enter into agreements with other organizations, including governments, or raise capital from external sources, they do so on terms that ensure democratic control by their members and maintain their cooperative autonomy.
 
-### EDUCATION, TRAINING AND INFORMATION
-Cooperatives provide education and training for their members, elected representatives, managers, and employees so they can contribute effectively to the development of their cooperatives. They inform the general public - particularly young people and opinion leaders - about the nature and benefits of co-operation.
+### EDUCATION, TRAINING, AND INFORMATION
+Cooperatives provide education and training for their members, elected representatives, managers, and employees so they can contribute effectively to the development of their cooperatives. They inform the general public - particularly young people and opinion leaders - about the nature and benefits of cooperation.
 
 ### COOPERATION AMONG COOPERATIVES
 Cooperatives serve their members most effectively and strengthen the cooperative movement by working together through local, national, regional, and international structures.
@@ -121,7 +121,7 @@ House members may raise objections about a prospective member directly to the tr
 ### Member Orientation
 All members must be present for Member Orientation, run by the Trustee and Labor Czar, directly following the first meeting of each semester. This orientation will include a quick overview of major rules, a hands-on tour of the kitchen (Jackson rules, cast iron cleaning, where things go/are), save plate policy, etc.
 
-This is optional for members who have lived at French House for 3 semesters or more.
+This is optional for members who have lived at French House for three semesters or more.
 
 If no new members move in over the interim periods, the orientation is optional at the discretion of Labor Czar and Trustee. If new members move in during the semester, whether they need a Member Orientation is at the discretion of Labor Czar and Trustee.
 
@@ -190,7 +190,7 @@ Roommate contracts serve as official agreements between roommates regarding the 
 ---
 
 ## BOARDERS, GUESTS, AND COUCH SURFERS
-*Nobody may stay at French House more than 2 weeks without a contract from ICC.*
+*Nobody may stay at French House more than two weeks without a contract from ICC.*
 
 ### Boarders
 Prospective boarders must be approved by a majority house vote. New boarders must pay half of their first month's boarding fees at the beginning of the month. After the first month, any payment plan must be decided by the Treasurer. Boarders may pay for access to both the kitchen and house dinners or choose a plan which only allows a choice of meals or kitchen access.
@@ -398,7 +398,7 @@ The Membership Coordinator must ensure all communications from prospective new m
 3. keep track of attendance during the meetings and alert the Trustee if anyone is in danger of missing too many meetings.
 4. coordinate with cooks to alert them if they'll have a new member cook with them.
 5. welcome new members that are moving in. Be a resource to all new members during the move-in period. Provide each member with the house manual and ensure they read it.
-6. keep all keys in the house key box up to date (there should be 2 keys for each single, and 1 extra for each double).
+6. keep all keys in the house key box up to date (there should be two keys for each single, and one extra for each double).
 7. change the combination of the key box at the start of each semester: only the Membership Coordinator, the Trustee, and the Maintenance Officer should know the code.
 8. keep all house members informed of important contract signing and termination dates.
 9. organize the house's mail and place it in the member mailboxes.
@@ -471,7 +471,7 @@ The Historian is in charge of keeping both a photographic and historical record 
 ## LABOR DESCRIPTIONS
 
 ### Iron Chef (2 hours)
-- Cook healthy, well balanced, economical recipes into meals between 5 - 7 PM on your assigned day to cook.
+- Cook healthy, well balanced, economical recipes into meals between 5-7 PM on your assigned day to cook.
     - Aim to make 24 servings of your meal.
     - Meals must be finished by 7:30 or you will receive a labor warning.
 - Alert the rest of the house that dinner is ready by ringing the bell with gusto.
@@ -509,7 +509,8 @@ Using non-toxic cleaner, clean the inside of the sinks and then clean all the sp
     - Tuesday - Guff Shelves: Organize, refill, and wipe down guff, personal, baking, and cooks' food shelves; write on the board if something has run out and wipe down the wall behind the trash can.
     - Wednesday - Fridge Room: Organize the shelf and mop and sweep the fridge room.
     - Thursday - Bulk Shelves: Neatly organize and refill bulk containers under the wooden counters, wipe off the lids and shelves, organize the oil bottles, clean out the potato and onion bins; write on the board if something has run out
-- Finish Kitchen Clean by 10 PM on your assigned day, sign-off and check off your appropriate day labor. You are not finished until all dishes, pans, and silverware are put away (putting pots on the stove does not count as "away") and the Jackson is empty.
+- Finish Kitchen Clean by 10 PM on your assigned day, sign-off and check off your appropriate day labor. You are not finished until all dishes, pans, and silverware are put away (putting pots on the stove does not count as "away")
+ and the Jackson is empty.
 
 ### Lunch Clean (1 hour)
 - Sunday - Thursday Lunch Cleans: You have until 5 PM to complete this task.
