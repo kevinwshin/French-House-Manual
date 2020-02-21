@@ -280,7 +280,7 @@ Progression of Strike Consequences:
 1st Offense: Warning. \
 2nd Offense: Warning and one-hour makeup labor. \
 3rd Offense: Trustee(s) notified, warning of possible conflict mediation, and two-hours makeup labor.  \
-4th Offense: Three-hours makeup labor, house-wide conflict mediation. \
+4th Offense: Three-hours makeup labor, house-wide conflict mediation.
 
 At the conflict mediation, the house will decide the terms for the member-in-question's good standing with the house.
 
@@ -290,7 +290,7 @@ A personal mess includes any personal items, leftover dishes, or cookware left i
 No dishes can sit in the sink. In the event a member places dishes in the sink, personal mess strike can be issued. The only exception to this rule is the use of the sink during any kitchen clean.
 
 #### Maintenance Strike
-Performing an act deemed unsafe by the Maintenance Officer or which puts the house itself at risk can result in a labor strike or a member review. Any "unsafe act" must be mentioned at a meeting. Punishment will be administered according to the Unified Strike System.
+Performing an act deemed unsafe by the Maintenance Officer or which puts the house itself at risk can result in a labor strike or a member review. Any "unsafe act" must be mentioned at a meeting. Consequences will be administered according to the Unified Strike System.
 
 #### Officer Strike
 
