@@ -277,10 +277,10 @@ All missed labor will result in makeup labor to be assigned by the Labor Czar. T
 All strikes - whether labor-, personal mess-, or officer-related - count towards the following progression of strike consequences. The Labor Czar is responsible for maintaining a document with the current number of strikes awarded to each member. Reasons for awarding strikes are outlined below. Strikes will be reset to zero upon the beginning of each semester. In other words, strikes assigned during interim will be in addition to those received during the previous semester.
 
 Progression of Strike Consequences:  
-1st Offense: Warning.  
-2nd Offense: Warning and one-hour makeup labor.
-3rd Offense: Trustee(s) notified, warning of possible conflict mediation, and two-hours makeup labor.
-4th Offense: Three-hours makeup labor, house-wide conflict mediation.
+1st Offense: Warning. \
+2nd Offense: Warning and one-hour makeup labor. \
+3rd Offense: Trustee(s) notified, warning of possible conflict mediation, and two-hours makeup labor.  \
+4th Offense: Three-hours makeup labor, house-wide conflict mediation. \
 
 At the conflict mediation, the house will decide the terms for the member-in-question's good standing with the house.
 
