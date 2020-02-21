@@ -62,16 +62,13 @@ Save Plates
 General Policy  
 Labor & Beautification Holiday  
 Makeup Labor  
-Labor Warning/Fines System  
+Labor Warning/Unified Strike System  
 Party Labor  
 
-### FINES & PURCHASES
+### PURCHASES
 House Purchases  
 House Discretionary Funds  
 Small Purchases  
-Personal Mess Fines  
-Maintenance Fines  
-Officer Fines  
 
 ### INTERIM
 Interim Officers  
@@ -129,10 +126,10 @@ If no new members move in over the interim periods, the orientation is optional 
 Mandatory meetings occur every other Sunday after dinner, and all French House members are required to attend. The date of a meeting may be changed by informal or formal house vote but must be done 48 hours in advance. Showing up late to meetings, leaving early, or leaving for extended periods (greater than 10 minutes) will result in being marked absent.
 
 #### Unexcused absences  
-Officers: Maximum of one unexcused absence before $5 fine.  
+Officers: Maximum of one unexcused absence before 1 strike.  
 Three unexcused absences will result in member review.
 
-Members: Maximum of two unexcused absences before $5 fine.  
+Members: Maximum of two unexcused absences before 1 strike.  
 Four unexcused absences will result in member review.
 
 Meetings must maintain quorum (defined by greater than 50% of the house) in order to make house decisions. Assuming quorum is met, a vote may pass only if the vote is a true majority (5 votes for, 5 abstaining would be a failed vote.)
@@ -172,9 +169,9 @@ A house officer may call a Cup Run by writing a note on the whiteboard 24 hours 
 The room with the most points must wash all the Cup Run dishes - 1/2 point will be awarded for every utensil and 1 full point for all other dishes.
 
 ### Commons and Bikes
-Members should remove all personal items from common spaces every day. A personal mess fine can be given by an officer to anyone leaving personal items or dishes in the commons for over 24 hours. Items left in the kitchen for five hours or more are also applicable for a personal mess fine.
+Members should remove all personal items from common spaces every day. A personal mess strike can be given by an officer to anyone leaving personal items or dishes in the commons for over 24 hours. Items left in the kitchen for five hours or more are also applicable for a personal mess strike.
 
-Bikes are not allowed in the commons for any extended amount of time. If you need to leave your bike in the commons for five minutes or less, that is acceptable, however any additional time can result in a $5 fine.
+Bikes are not allowed in the commons for any extended amount of time. If you need to leave your bike in the commons for five minutes or less, that is acceptable, however any additional time can result in a strike.
 
 ### House Parties
 A proposal should be made for house parties of any kind and presented at a House Meeting. A majority vote is required for the party to be allowed. If any proposed party is for a group/organization/cause that is not directly related to French House, the proposer will be responsible for party cleanup.
@@ -222,7 +219,7 @@ French House accepts couch surfers under the following strict guidelines:
 ---
 
 ## Kitchen
-The kitchen is open 24 hours, and food is available to all members unless it is personal food or food which is to be used in the preparation of a house meal. If you cook with something or use a dish, you *must* clean it. Dishes are not allowed to be left in the sink. Anyone who leaves dishes in the sink, other than for kitchen clean, is subject to a personal mess fine.
+The kitchen is open 24 hours, and food is available to all members unless it is personal food or food which is to be used in the preparation of a house meal. If you cook with something or use a dish, you *must* clean it. Dishes are not allowed to be left in the sink. Anyone who leaves dishes in the sink, other than for kitchen clean, is subject to a personal mess strike.
 
 ### Sanitation
 Be courteous to other members, and follow all state and city health regulations. Practice cleanliness, and do not sit or put your feet on the island or counters.
@@ -249,7 +246,7 @@ Bagged food will be kept for up to one month after its marked date. Restaurant l
 Food in the freezer will be moved to the Guff Freezer if it was labeled in a prior semester. Fridge Clean will never throw out new items, but it is the responsibility of the owner of the personal food to accurately label or relabel their items.
 
 ### Save Plates
-Anyone requesting a save plate must write their initials in the appropriate box on the whiteboard before dinner is served on the requested day. Save plates will then be protected for 24 hours after the meal and become guff after this period. Failure to eat or otherwise clean your save plate after 48 hours will result in a Personal Mess Fine, though the save plate may be moved to the personal fridge to work around this problem.
+Anyone requesting a save plate must write their initials in the appropriate box on the whiteboard before dinner is served on the requested day. Save plates will then be protected for 24 hours after the meal and become guff after this period. Failure to eat or otherwise clean your save plate after 48 hours will result in a Personal Mess Strike, though the save plate may be moved to the personal fridge to work around this problem.
 
 Group save plates are not an option and will result in a warning for the cooks the first time, and a labor offense the second time.
 
@@ -276,14 +273,33 @@ If a member is unable to attend Labor or Beautification Holiday, they will be gi
 ### Makeup Labor
 All missed labor will result in makeup labor to be assigned by the Labor Czar. This labor must be made up in a time determined (within reason) by the Labor Czar. The Labor Czar must keep a hard copy of violations and warnings in addition to the whiteboard.
 
-### Labor Warning/Fines System
-Current Warning/Fine System:  
-1st Offense: Warning and makeup labor.  
-2nd Offense: Labor violation to be displayed on whiteboard, makeup labor  
-3rd Offense: Labor violation to be displayed on whiteboard, makeup labor  
-4th Offense: Labor violation to be displayed on whiteboard, house-wide conflict mediation
+### Labor Warning/Unified Strike System
+All strikes -- whether labor-, personal mess-, or officer-related -- count towards the following escalating level of strikes. The Labor Czar is responsible for maintaining a document with the current number of strikes awarded to each member. Reasons for awarding strikes are outlined below. Strikes will be reset to zero upon the beginning of each semester. In other words, strikes assigned during interim will be in addition to those received during the previous semester.
+
+Progression of Strike Consequences:  
+1st Offense: Warning.  
+2nd Offense: Warning and makeup labor.
+3rd Offense: Trustee(s) notified, warning of possible conflict mediation, and makeup labor.
+4th Offense: Makeup labor, house-wide conflict mediation.
 
 At the conflict mediation, the house will decide the terms for the member-in-question's good standing with the house.
+
+#### Personal Mess Strike
+A personal mess includes any personal items, leftover dishes, or cookware left in common areas for more than 24 hours. Officers may asses a strike of one hour of labor. If you notice someone leaves something behind, bring it to their attention before alerting an officer. There must be two witnesses in order to issue a personal mess strike. In all cases, the Labor Czar should be alerted of personal mess strikes, so that they are able to keep track of the current number of strikes awarded to each member.
+
+No dishes can sit in the sink. In the event a member places dishes in the sink, personal mess fine can be issued. The only exception to this rule is the use of the sink during any kitchen clean.
+
+#### Maintenance Fines
+Performing an act deemed unsafe by the Maintenance Officer or which puts the house itself at risk can result in a labor strike or a member review. Any "unsafe act" must be mentioned at a meeting. Punishment will be administered according to the Unified Strike System.
+
+#### Officer Fines
+
+Officers who do not complete their duties as outlined in the Officer Roles section of the manual may be reprimanded with a strike, given by:  
+1. Any group of three housemates who collaboratively decide to issue a strike, to be reported to the Labor Czar for collection. This strike can be reviewed and vetoed by 2/3 officer vote.
+2. A majority of the house at a meeting.
+3. Any two officers.
+
+If an officer has not adhered to their responsibilities, they may be impeached at a House Meeting.
 
 ### Party Labor
 Any member attending a party for any amount of time will be required to assist in party labor.
@@ -293,7 +309,7 @@ Party labor is to be organized by either the Education Officer, the proposer of 
 
 ---
 
-## FINES & PURCHASES
+## PURCHASES
 
 ### House Purchases
 Any house purchases above $25 must be approved at a House Meeting through a proposal. The Treasurer will issue a check for all approved expenditures. When returning a receipt to the Treasurer, you must write your initials, circle the date, and circle the total before putting it in the wooden box at the base of the stairs.
@@ -309,29 +325,6 @@ At the last meeting of every month, the Treasurer should give a detailed account
 If a house member would like to make a small purchase for the betterment of the house, they need two officers to approve said purchase, one of which must be the Treasurer.
 
 If the member proposing the purchase is an officer, they must find two additional officers to approve the purchase. If the member proposing the purchase is the Treasurer, they must get the approval of the Trustee.
-
-### Personal Mess Fines
-A personal mess includes any personal items, leftover dishes, or cookware left in common areas for more than 24 hours. Officers may asses a fine of one hour of labor which will be assigned by the Labor Czar. If you notice someone leaves something behind, bring it to their attention before alerting an officer. There must be two witnesses in order to issue a personal mess fine. Three personal mess fines will result in a labor violation.
-
-No dishes can sit in the sink. In the event a member places dishes in the sink, personal mess fine can be issued. The only exception to this rule is the use of the sink during any kitchen clean.
-
-### Maintenance Fines
-Performing an act deemed unsafe by the Maintenance Officer or which puts the house itself at risk can result in a labor fine or a member review. Any "unsafe act" must be mentioned at a meeting. Punishment will be administered in the following manner:
-
-First offense: warning  
-Second offense: one hour of labor  
-Third offense: two hours of labor  
-Fourth offense: two hours of labor and conflict mediation  
-Fifth offense or more: member review and two hours of labor if still a member
-
-### Officer Fines
-
-Officers who do not complete their duties as outlined in the Officer Roles section of the manual may be reprimanded with a Labor Violation, given by:  
-1. Any group of three housemates who collaboratively decide to issue a fine, to be reported to the Treasurer or Labor Czar for collection. This fine can be reviewed and vetoed by 2/3 officer vote.
-2. A majority of the house at a meeting.
-3. Any two officers.
-
-If an officer has not adhered to their responsibilities, they may be impeached at a House Meeting.
 
 ---
 
